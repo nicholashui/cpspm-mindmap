@@ -1,0 +1,8 @@
+@startsalt
+{+
+Key Question Build
+Situation:|"Background sitution"
+Complication:|"Problem Description"
+Diagnostic key question:|"Why would project go off course?"
+}
+@endsalt

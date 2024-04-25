@@ -1,0 +1,12 @@
+@startuml
+start
+:Frame problem
+**WHAT** problem should you should;
+:Diagnose problem
+**WHY** are you facing this problem?;
+:Find potential solutions
+**HOW** can you solve it?;
+:Implement solutions
+**DO**;
+stop
+@enduml

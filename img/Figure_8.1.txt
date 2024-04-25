@@ -1,0 +1,27 @@
+@startmindmap
++ Project plan
+++ 1 High level description
++++ Project name
++++ Situation
++++ Complication
++++ Proposal: what the project will do
+++ 2 Scope, objective, and deliverables
++++ Scope
+++++ In scope
+++++ Out of scope
++++ Objectives & metrics
+++++ Objective 1 & associated metrics
+++++ Objective 2 & associated metrics
++++ Deliverables
+++ 3 Timetable (Gantt chart)
+++ 4 Assumptions, support needed, and risks
++++ Assumptions
++++ Support needed
++++ Risks
+++ Stakeholders
++++ Project sponsor
++++ Other key stakeholders / inuencers
++++ Project team
+++++ Manager
+++++ Other team members
+@endmindmap

@@ -1,0 +1,17 @@
+@startmindmap
++ Generic screen. The proposed project’s...
+++ ... potential success is attractive
++++ It has a high probability of success
+++++ We have the necessary skills
+++++ We have the necessary infrastructure, capacity (including time), money, and/or brand
+++++ We can make the necessary people do what they must to get it done
+++++ It is sufficiently legal/ethical/compliant with regulations/consistent with our values & culture
+++++ It has an acceptable cost of opportunity
+++++ It has worked in the past and/or is working elsewhere (for us or others)
++++ Success has a high payoff
+++++ It solves a significant part of the problem
+++++ It is not creating an unmanageable problem elsewhere
+++ ... potential failure is manageable
++++ The probability of failure is low
++++ The cost of failure is low
+@endmindmap

@@ -1,0 +1,20 @@
+@startuml
+start
+:Identifying all the possible root causes
+確定所有可能的根本原因;
+:Map all key question 
+繪製所有關鍵問題;
+:Classify key question and root causes mapping
+將關鍵問題分類並繪製根本原因圖;
+:Add hypotheses to each mapping
+在每個映射中新增假設;
+:Assessment hypotheses probabilities
+評估假設機率;
+:Design analysis plan of each hypothesis
+設計各假設的分析計劃;
+:Prioritize each hypotheses
+確定每個假設的優先級;
+:Concluse most relevant hypotheses
+結論最相關的假設;
+stop
+@enduml

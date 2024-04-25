@@ -1,0 +1,25 @@
+@startmindmap
++ Profitability
+++ Revenue
++++ Quantity
++++ Price
+++ Cost
++++ Fixed
++++ Variable
++ Necessary conditions for planned action
+++ Good plan
+++ Good execution
++ Product types (BCG matrix)
+++ Cash cow
++++ high market share
++++ low market growth
+++ Star
++++ high market share
++++ high market growth
+++ Dog
++++ low market share
++++ low market growth
+++ Question mark
++++ low market share
++++ high market growth
+@endmindmap

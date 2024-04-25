@@ -1,0 +1,14 @@
+@startuml
+start
+: Delivery Process
+Why did we get the part late?;
+:Process 1 (Finding Provider)
+Because we were late finding the provider;
+:Process 2 (Order Part)
+Because we were late ordering the part;
+:Process 3 (Produce Part)
+Because our provider was late producing the part;
+:Process 4 (Devlier Part)
+Because our provider was late delivering the part;
+stop
+@enduml

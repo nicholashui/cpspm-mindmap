@@ -1,0 +1,10 @@
+@startsalt
+{+
+Hypothesis		|Individual likehood |Timeliness|Spped of|Low |Weighted|Ranking
+_				|of success			 |_			|success |cost|score   |_
+Weight			|		0.52		 |	0.27	|  0.15	 |0.06|_	   |_
+H1:Hypothesis A	|		50			 |	100		|  100	 | 90 |   73   |2
+H2:Hypothesis B	|		50			 |	100		|  100	 | 90 |   73   |2
+H3:Hypothesis C	|		50			 |	100		|  100	 | 90 |   73   |2
+}
+@endsalt

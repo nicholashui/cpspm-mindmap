@@ -1,0 +1,23 @@
+@startmindmap
++ How to solve a problem
+++ Use level 1 method
++++ Use level 1.1 method
++++ Use level 1.2 method
++++ Use level 1.3 method
+++ Use level 2 method 
++++ Use level 2.1 method
++++ Use level 2.2 method 
+++++ Use level 2.2.1 method
+++++ Use level 2.2.2 method
++++++ Use level 2.2.2.1 method
++++++ Use level 2.2.2.2 method
++++++ Use level 2.2.2.3 method
+++++++ Use level 2.2.2.3.1 method
+++++++ Use level 2.2.2.3.2 method
+++++ Use level 2.2.3 method
++++ Use level 2.3 method
+++ Use level 3 method 
++++ Use level 3.1 method
++++ Use level 3.2 method
++++ Use level 3.3 method
+@endmindmap

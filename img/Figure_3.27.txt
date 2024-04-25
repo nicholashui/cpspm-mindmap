@@ -1,0 +1,27 @@
+@startmindmap
++ 7S 5 forces
+++ Current Competitors
+++ Suppliers
+++ Clients
+++ New entrants
+++ Substitutes
++ McKinsey’s 7S
+++ Hard
++++ Structure
++++ Strategy
++++ Systems
+++ Soft
++++ Shared values
++++ Style
++++ Skills
++++ Staff
++ Ohmae’s 3 Cs
+++ Competitors
+++ Customers
+++ Company
++ SWOT
+++ Strengths: positive, internal
+++ Weaknesses: negative, internal
+++ Opportunities: positive, external
+++ Threats: negative, external
+@endmindmap

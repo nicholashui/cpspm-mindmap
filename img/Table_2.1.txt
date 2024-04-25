@@ -1,0 +1,13 @@
+@startsalt
+{+
+System 1 - Intuitive| System 2 - Reflective
+Unconscious, preconscious |Conscious
+Rapid |Slow
+Automatic |Controlled
+Low effort |High effort
+High capacity |Low capacity
+Associative |Rule based
+Intuitive |Deliberative
+Contextualized |Abstract
+}
+@endsalt

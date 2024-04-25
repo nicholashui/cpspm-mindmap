@@ -1,0 +1,34 @@
+@startsalt
+{+
+Why Card
+Situation:|{
+The information that is necessary and sufficient to specify which part of the
+universe you are considering. Only the necessary information. This
+information should be positive (i.e., there is no problem at this stage) and
+undisputed (i.e., people reasonably familiar with the setting agree with it)
+}
+Complication:|{
+The one problem in that part of the universe; that is, the unique need for change
+(potentially illustrated by one or several of its symptoms/consequences)
+}
+Diagnostic key question:|{
+The one diagnostic question that you want to answer. It
+1. Is phrased as "why...?"
+2. Addresses an appropriate topic
+3. Has an appropriate scope
+4. Has an appropriate phrasing
+}
+Decision makers:|{The person(s) who have the formal authority to direct 
+your project/authorize your recommendation
+}
+Other stakeholders: |{
+The person(s) who do not have formal authority 
+but who can influence the project
+}
+Goals and logistics:|{
+Budget, deadlines, types of documents, quantitative objectives, etc.
+}
+Voluntarily leftout answers (things 
+that we could do but decide not to):|The actions under your control that you choose not to take
+}
+@endsalt

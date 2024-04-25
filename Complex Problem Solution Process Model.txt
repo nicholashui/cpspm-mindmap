@@ -1,0 +1,3101 @@
+Complex Problem Solution Process Model
+複雜問題解決過程模型
+
+	[Figure_1.1.png]
+	
+	WHAT : Frame problem - What problem should solve?
+	WHAT : 框架問題 - 你該解決什麼問題？
+
+		Problem Framing
+		問題框架
+
+			Identifying problem
+			確定問題
+
+				Use problem definition card
+				使用問題定義卡
+
+					[Figure_2.1.png]
+
+				Problem framing is a critical activity because the frame will strongly influence the understanding of the problem, thereby conditioning your approach to solving it
+				問題框架是一項關鍵活動，因為框架將強烈影響對問題的理解，從而制約您解決問題的方法 
+				
+				Use divergent and convergent thinking
+				使用發散和聚合思維
+
+					Diverge: Identify potential frames creatively
+					發散： 創造性地識別潛在框架
+					
+					Converge: Select critical one
+					聚合： 選擇關鍵的一個				
+						
+				Understand C (complex) ID (ill-defined) NI(Not immediate but Important) problem
+				理解 C（複雜）ID（定義不明確）NI（不直接但重要）問題
+
+				Adopt – CIDNI problem solver = “T Shaped”
+				採納 – CIDNI 問題解決器 = “T 形”
+
+					- : Generalist = Breadth of knowledge of across disciplines makes
+					- : 通才 = 跨學科知識的廣度使得
+					
+					| : Specialist = Depth of knowledge in specific domain
+					| : 專家 = 特定領域的知識深度
+					
+					T Shaped = Generalist + Specialist
+					T 形 = 通才 + 專家
+					
+				Resist conditioning
+				反抗 條件反射
+
+					Solutions for problem in the past does not mean that these reasons are still valid
+					過去解決問題並不意味著這些原因仍然有效 
+
+					Jumping to conclusions, that is, using System 1 thinking or intuition, is appropriate if one is likely to pick the right answer, the cost of an occasional error is low, and deciding quickly brings high reward
+					匆匆下結論，即使用系統1的思維或直覺，如果一個人有可能選擇正確的答案，偶爾出錯的成本很低，並且快速做出決定會帶來高回報，那麼下結論是合適的
+					
+				Engage System 2 thinking
+				參與系統 2 思維
+
+					[Table_2.1.png]		
+
+				Defer judgment 
+				推遲判斷
+
+				Enlist others - Keep probing (it’s easy, keep asking why). Do not be fooled by their confidence. Use evidence- based setting
+				招募其他人 - 繼續探索（這很容易，繼續問為什麼） 不要被他們的信心所迷惑 使用循證環境
+
+			Identifying problem scope
+			確定問題範圍
+				
+				Many poorly performing teams do not validate that all members agree on the objectives and how to reach them		
+				許多表現不佳的團隊是沒有驗證所有成員都同意目標以及如何實現這些目標
+				
+				Write the name of your project at the top of the card. On the second row, specify what the project is and what it is not
+				在卡片頂部寫下項目名稱 在第二行中，指定項目是什麼，不是什麼
+
+				Decision makers are people who can formally authorize, steer, or kill your project
+				決策者是可以正式授權、指導或終止您的專案的人
+
+				Showing the main phases in the process and the time we plan to devote to each. To simplify thinking through the project, the Table_is prepopulated with four steps (what, why, how, do)
+				展示流程中的主要階段以及我們計劃在每個階段投入的時間 為了簡化對專案的思考，該表預填充了四個步驟（什麼、為什麼、如何、做什麼）
+
+				Lists the resources ( money, people, equipment ) that commit to the project
+				列出致力於專案的資源（資金、人員、設備）
+
+				Lists all possible problems, along with actions that can take to mitigate them as too many possible obstacles that could complicate the project. It should proactively avoid them or reduce their impact
+				列出所有可能的問題，以及可以採取的緩解這些問題的措施，因為可能使專案複雜化的障礙太多 它應主動避免或減少其影響 
+
+				Avoid liability altogether by refraining too early conclusion
+				避免過早下結論，完全避免責任
+
+				Discover evidence that warrants changing the scope that should reflected in what card
+				發現需要改變範圍的證據，這些範圍應該反映在什麼卡片上
+
+			Framing the diagnostic
+			構建診斷框架
+
+				Ecologist Sandra Steingraber’s story illustrates, however, if you start thinking about how you can solve a problem without having understood its root cause(s), you may misdirect a great deal of effort or solve the wrong problem altogether
+				生態學家桑德拉·斯坦格拉伯（Sandra Steingraber）的故事所說明的那樣，如果你在不瞭解其根本原因的情況下開始思考如何解決問題，你可能會誤用大量的精力或完全解決錯誤的問題 
+
+				Select good key question
+				選擇好的關鍵問題
+
+					[Figure_2.5.png]
+				
+				Choose the right type of key question by select a good key question with four key characteristics: type, topic, scope, and phrasing
+				通過選擇具有四個關鍵特徵的好關鍵問題來選擇正確類型的關鍵問題：類型、主題、範圍和措辭
+
+					[Table_2.5.png]
+
+				Only ask what, why, or how
+				只問什麼、為什麼或如何
+
+				Only ask how if you know why
+				如果你知道為什麼，只問怎麼做
+
+				Two kinds of key questions: why and how. Why analyses are diagnostics: they help uncover the root cause(s) of the problem. How analyses are prescriptions: they help find alternative ways to solve a problem
+				兩種關鍵問題：為什麼和如何 為什麼分析是診斷：它們有助於發現問題的根本原因 分析如何成為處方：它們有助於找到解決問題的替代方法 
+
+				Ask about the right topic
+				詢問正確的主題
+
+					[Figure_2.7.png]
+					
+					Question your constraints/ frames
+					質疑你的約束/框架
+
+				Within the topic, select the right scope being neither too broad nor too narrow
+				在主題中，選擇既不太寬也不太窄的正確範圍
+
+					Do not make your scope too narrow. If the key question is too broad, as in the airport parking lot example above, you may struggle to stay in touch with your problem because you will explore aspects that are only remotely connected to the central issue. But making your key question too narrow is also limiting
+					不要讓你的範圍太窄 如果關鍵問題過於寬泛，如上面的機場停車場示例，您可能很難與您的問題保持聯繫，因為您將探索僅與中心問題遠端相關的方面 但是，把你的關鍵問題弄得太窄也是有局限性的 
+
+					Validate every word
+					驗證每個單詞
+
+					An implication is that you must use precise vocabulary, not because of pedantry but because imprecision in communication may be symptomatic of deficiencies in the underlying logic
+					言下之意是，你必須使用精確的詞彙，不是因為迂腐，而是因為溝通的不精確可能是底層邏輯缺陷的徵兆 
+
+				Sample key question
+				關鍵問題範例
+					
+					[Table_2.2.png]
+			
+			Use an introductory flow
+			使用介紹性流程
+
+				Defining your universe with the situation
+				用情境來定義你的宇宙
+
+				Include only the necessary and sufficient information
+				僅包括必要和充分的資訊
+
+				Do not include data simply because you think your readers might find it useful or interesting
+				不要僅僅因為您認為您的讀者可能會發現它有用或有趣而包含數據 
+
+				Do not include events in chronological order
+				不要按時間順序包括事件
+
+				Include only positive information
+				僅包含正面資訊
+
+				Include only uncontroversial/ undisputed information
+				僅包含無爭議/無爭議的資訊
+
+				Be concise
+				簡明扼要
+						
+			Introduce the need for change with the complication
+			引入複雜變化的需要
+
+				The complication upsets the original situation and thereby leads to the key question
+				這種複雜情況擾亂了原來的情況，從而導致了關鍵問題 
+
+					[Table_2.4.png]
+
+			Fine tune introductory flow
+			微調介紹性流程
+			
+				Rabbit rule: "To pull a rabbit out of a hat, there must be a rabbit in the hat to begin with."
+				兔子規則：「要把兔子從帽子裡拉出來，帽子里必須有一隻兔子 
+					
+				Keep it simple
+				保持簡單 
+
+				Ensure that the key question is the logical destination of the {situation + complication} sequence
+				確保關鍵問題是 {situation + complication} 序列的邏輯目標 
+
+					[Figure_2.10.png]
+					
+			Summarize your diagnostic frame in a why card
+			在原因卡中總結診斷框架
+
+				Why card
+				原因卡
+					
+					[Figure_2.11.png]
+							
+				Do not diagnose the problem yet
+				暫時不要診斷問題 
+
+				Remove distractions
+				消除干擾
+
+				Do not get discouraged.		
+				不要氣餒 	
+
+	WHY: Diagnose problem - What facing this problem?
+	WHY: 診斷問題 - 面臨什麼問題？
+				
+			Root Causes Identification
+			根本原因識別
+
+				[Figure_3.0.png]
+
+				Diagnostic issue map
+				診斷問題圖
+
+					[Figure_1.3.png]
+
+				Identify the diagnostic key question
+				確定診斷關鍵問題
+
+				Use divergent and convergent thinking
+				使用發散和聚合思維	
+				
+					Diverge : Identify potential root causes
+					發散：找出潛在的根本原因
+					
+					Converge: Select relevent one
+					聚合： 選擇相關的一個
+				
+				Identifying all the possible root causes
+				確定所有可能的根本原因
+
+				Map all key question 
+				繪製所有關鍵問題
+
+				Classify key question and root causes mapping
+				將關鍵問題分類並繪製根本原因圖
+
+				Add hypotheses to each mapping
+				在每個映射中新增假設
+				
+				Assessment hypotheses probabilities
+				評估假設機率
+
+				Design analysis plan of each hypothesis
+				設計各假設的分析計劃
+				
+				Prioritize each hypotheses
+				確定每個假設的優先級
+
+				Concluse most relevant hypotheses
+				結論最相關的假設
+
+				Identify the potential root causes       
+				確定潛在的根本原因
+				
+					Prepare issue maps: diagnostic maps and solution maps
+					準備問題圖：診斷圖和解決方案圖
+					
+						[Figure_3.1.png]
+						
+					Cartographic process of problem analysis 
+					問題分析的製圖過程
+					
+						Fault trees
+						故障樹
+						
+							[fault-tree.jpg]
+						
+						Logic trees
+						邏輯樹
+						
+							[logic-tree.png]
+						
+						Decision trees
+						決策樹
+						
+							[decision-trees.png]
+						
+						Issue trees
+						問題樹
+						
+							[issue-tree.png]
+						
+						Value trees/value hierarchies
+						價值樹/價值層次結構
+							
+							[value-tree.jpg]
+						
+							[value-tree-hierarchies.png]
+						
+						Objective hierarchies
+						客觀的層次結構
+						
+							[objective-hierarchies.png]
+						
+							[hierarchies-of-objective.png]
+						
+						Probability trees
+						機率樹
+						
+							[probability-trees.png]
+						
+						Ishikawa diagrams
+						石川圖
+						
+							[ishikawa-diagrams.png]
+						
+						Why–Why and How–How diagrams
+						為什麼-為什麼和如何-如何圖
+						
+							[why-why.png]
+						
+							[how-how.png]
+						
+						Influence diagrams
+						影響圖
+						
+							[influence-diagrams.jpg]
+						
+						Issue Map
+						問題圖
+						
+							[issue-map.jpg]
+						
+						Problem flow diagrams
+						問題流程圖
+							
+							[problem-flow-diagrams.jpg]
+						
+						Evidence maps
+						證據圖
+						
+							[evidence-maps.png]
+						
+						Mind maps
+						心智圖
+							
+							[mind-map.png]
+						
+						Concept maps
+						概念圖
+						
+							[concept-maps.png]
+						
+						Dialogue maps
+						對話圖
+						
+							[dialogue-maps.png]
+						
+						Argument maps
+						參數圖
+							
+							[argument-maps.png]
+						
+						Wigmore charts
+						威格莫爾圖表
+						
+							[wigmore-charts.png]
+						
+						Bayesian networks
+						貝葉斯網絡
+						
+							[bayesian-networks.png]
+						
+					Minimize impact of interrelated issues:
+					最大限度地減少相關問題的影響：
+				
+						Fixation - Unable to search away from a given direction
+						固定 - 無法遠離給定方向進行搜索
+						
+						Premature closure - Reach conclusion without considering all alternatives
+						過早結束 - 無法遠離給定方向進行搜不考慮所有替代方案就得出結論
+						
+						Anchoring - Subjective thinking due to first information received
+						錨定 - 由於收到的第一個訊息而產生的主觀思考
+						
+						Overconfidence - People tend to have more confidence in themselves than their actual level of accuracy.
+						過度自信 - 個人對自己的主觀信心遠大於客觀準確性		
+						
+						Confirmation bias - generating and interpreting evidence to own beliefs
+						確認偏誤 - 產生並解釋自己信念的證據
+
+				Issue map build process
+				問題地圖建構過程
+
+					Issue map consistently answer a single type of question
+					問題地圖始終回答單一類型的問題
+					
+						Using specific selfcontained affirmations removes the ambiguities
+						使用特定的獨立肯定可以消除歧義
+						
+						Diagnostic maps answer a why key question
+						診斷圖回答了「為什麼」這個關鍵問題
+
+						Solution maps answer a how key question
+						解決方案圖回答如何關鍵的問題
+
+					Issue map progress from the key question to the conclusions
+					問題圖從關鍵問題到結論的進展
+					
+						Key question conclusions 
+						關鍵問題結論
+						
+							Expand problem space to mulitple level to uncover all the possible root causes of the key question
+							將問題空間擴展到多個層次，以揭示關鍵問題的所有可能的根本原因
+
+								[Figure_3.4.png]
+
+						Make explicit structure of key question
+						明確關鍵問題的結構
+					
+							Keep drilling into the problem by identifying new layers of structure.	
+							透過識別新的結構層繼續深入研究問題。
+							
+								[Figure_3.5.png]
+					
+						Lay out hypothesis set
+						佈置假設集
+						
+							Associate each element in the map to a formal hypothesis.
+							將圖中的每個元素與正式假設相關聯。
+						
+								[Figure_3.6.png]
+						
+						Explain how to test each hypothesis
+						解釋如何檢驗每個假設
+						
+							For each hypothesis, identify the required analysis
+							對於每個假設，確定所需的分析
+
+						
+							Issue maps are also useful to capture the analysis and synthesis for each hypothesis
+							問題圖對於捕捉每個假設的分析和綜合也很有用
+
+								[Figure_3.7.png]
+
+						Prioritize analysis
+						優先分析
+						
+							Conclude on each hypothesis
+							對每個假設得出結論
+						
+								[Figure_3.9.png]
+								
+							Maps use both dimensions to map out completely the key question
+							地圖使用兩個維度來完整地描繪出關鍵問題
+							
+								Vectical moves capture new possible root causes
+								垂直移動捕捉新的可能根本原因
+								
+								Hortizonal moves descrbe root causess in further depth
+								水平移動更深入地描述根本原因
+
+									[Figure_3.10.png]
+							
+						Draw conclusions
+						得出結論	
+						
+					Issue map have mutually exclusive and collectively exhaustive (MECE) branches
+					問題地圖具有互斥和集體詳盡（MECE）分支
+						
+						Although the structure of the map is MECE (mutually exclusive collectively exhaustive), the answers themselves are ICE (independent and collectively exhaustive).
+						雖然地圖的結構是 MECE（互斥集體詳盡），但答案本身就是 ICE（獨立且集體詳盡）。
+
+							
+						Generate potential answers before the structure
+						在結構之前產生潛在的答案 
+						
+						Defer criticism
+						推遲批評
+						
+						Be more CE by balancing satisficing and optimizing
+						透過平衡滿足和優化來變得更加CE 
+						
+						When looking for answers to a problem, accepting an available option as soon as you find one that meets a minimal threshold.
+						在尋找問題的答案時，一旦找到滿足最低閾值的可用選項，就立即接受。
+									
+						Strive to optimize
+						努力優化
+									
+						The key to thinking free is first to allow your mind to contemplate really outrageous ideas, and only subsequently apply the constraints of practicality, practicability, legality, cost, time, and ethics. 
+						自由思考的關鍵是先讓你的頭腦思考真正離譜的想法，然後才應用實用性、實用性、合法性、成本、時間和道德的限制。
+
+						Before having a good idea, you need to have lots of ideas, and it is okay to have bad ones.
+						在產生一個好想法之前，你需要有很多想法，有不好的想法也沒關係。
+
+						Decide when to stop
+						決定何時停止
+							
+							Stop drilling when expanding further does not bring additional practical value
+							當進一步擴張不會帶來額外的實用價值時就停止鑽探
+								
+					Maps are insightful
+					地圖很有洞察力
+
+						Generate alternatives for the first node of map. 
+						為地圖的第一個節點產生替代方案 
+						
+						Assess the insightfulness of each alternative by understanding its “so what?”
+						透過理解「那又怎樣？」來評估每個替代方案的洞察力 
+						
+						Selecte the most insightful alternative, discard the others and start developing map
+						選擇最有洞察力的替代方案，放棄其他方案並開始開發地圖 
+						
+						To generate alternative breakdowns, consider all the variables that use to describe the key question
+						若要產生替代細分，請考慮用於描述關鍵問題的所有變數
+						
+						Having selected the most insightful alternative, discard the others and start developing issue map
+						選擇最有洞察力的替代方案後，放棄其他方案並開始開發問題圖
+						
+					Ideas to start map
+					開始繪製地圖的想法
+					
+						Work in right setting
+						在正確的環境中工作
+						
+						Use analogies to approach unfamiliar problems
+						使用類比來解決不熟悉的問題
+
+							[Figure_3.23.png]
+						
+						Recycle discarded variables
+						回收廢棄的變數
+						
+						Consider using existing frameworks
+						考慮使用現有框架
+						
+							[Figure_3.24.png]
+								
+							[Figure_3.25.png]
+							
+							[Figure_3.26.png]
+							
+							[Figure_3.27.png]
+						
+						A MECE process can be a good basis to structure your diagnostic map.
+						MECE 流程可以成為建立診斷圖的良好基礎。
+						
+							[Figure_3.28.png]
+
+			Actual Causes Determination
+			實際原因確定
+
+				Do a root- cause analysis
+				進行根本原因分析
+
+				Do problem classification
+				做問題分類
+
+					Inventive problem
+					創造性問題
+
+					Closed problem
+					已關閉的問題
+
+				Lays out all the possible causes exactly once
+				一次列出所有可能的原因
+				
+				Develop set of hypotheses
+				制定假設
+				
+					Summarize map in a set of hypotheses
+					用一組假設總結地圖
+							
+					Link all elements in the map to exactly one hypothesis
+					將地圖中的所有元素連結到一個假設
+
+						[Figure_4.1.png]
+				
+					Keep the number of hypotheses under control
+					控制假設的數量
+					
+				Concentrate important matters
+				專注於重要的事情
+				
+					[Figure_4.3.png]
+				
+				Phrase hypotheses well
+				短語假設好
+					
+					Make hypotheses testable
+					使假設可檢驗
+					
+					Make hypotheses unequivocal
+					假設明確無誤
+					
+					Relate hypotheses to the key question
+					把你的假設表述為完整的陳述句
+					
+					Consider using comparative hypotheses when possible
+					盡可能考慮使用比較假設
+					
+						The number of hypothesis is manageable
+						假設的數量是可控制的
+						
+						All elements in the map are linked to exactly one hypothesis
+						圖中的所有元素都與一個假設相關
+						
+						Each hypothesis is a self-contained affirmation that answers the question in a straight forward manner
+						每個假設都是獨立的肯定，以直接的方式回答問題
+						
+						Broad hypotheses address the unlikely parts of the map
+						廣泛的假設解決了地圖上不太可能的部分
+
+				Associate concrete hypotheses with specific parts of the map
+				將具體假設與地圖的特定部分相關聯
+
+				Test hypotheses
+				檢驗假設
+
+				Prioritize the testing of hypotheses
+				優先檢驗假設
+				
+					(Temporarily) discard hypotheses that are too unlikely
+					（暫時）摒棄不太可能的假設
+					
+					Consider going wide before going deep
+					在深入之前考慮先寬
+					
+					Enlist others
+					招募其他人
+					
+						Diversity of opinion
+						意見多樣性
+						
+						Independence
+						獨立性
+						
+						Decentralization
+						分散性
+						
+						Aggregation
+						聚合性		
+					
+				Analyze
+				分析
+
+					Distance from hypotheses
+					與假設的距離	
+						
+						Clearly state hypotheses
+						清楚地陳述假設
+					
+						Not be wedded to them
+						不要被它們所束縛
+					
+						Use data to objectively test
+						使用數據來客觀地檢驗
+					
+					Hypothesis testing is then “the process of evaluating a proposition by collecting evidence regarding its truth.”
+					假設檢驗是“通過收集有關命題真理的證據來評估命題的過程”
+					
+					Gauch’s Presuppositions–Evidence–Logic (PEL) model
+					Gauch 的預設-證據-邏輯 （PEL）
+					
+						Presuppositions - Any of the hypotheses is true,
+						預設 - 任何假設為真
+						
+						Evidence - data of credibility 
+						證據 - 可信度數據
+						
+						Logic - Combines presuppositions and evidence with valid reasoning to reach a conclusion
+						邏輯 - 將預設和證據與有效的推理結合得出結論
+						
+						Every scientific conclusion, if fully disclosed, involves three kinds of premises, regarding presuppositions, evidence, and logic
+						每一個科學結論，如果被充分披露，都涉及三種前提，即前提、證據和邏輯
+					
+					Use deduction, induction, and abduction
+					使用演繹、歸納和綁架
+					
+						Deduction applies a universal rule to a particular case to derive specific conclusions
+						演繹將普遍規則應用於特定案例以得出特定結論
+						
+							Deductive inference applies a general rule to a particular case
+							演繹推理將一般規則應用於特定情況
+						
+								[Figure_4.6.png]
+						
+							Deduction, abduction, and induction combine elements in different ways to go from premises to conclusions
+							演繹、溯因和歸納以不同的方式組合元素，得出前提到結論
+						
+								[Figure_4.7.png]
+									
+						Induction relies on particular cases to generate a general rule that is likely true
+						歸納法依賴特定情況來產生可能正確的一般規則
+						
+						Abduction is the formulationof a hypothesis as a result of observing a surprising event or being in a situation of having “evidence in search of hypotheses.”
+						溯因推理是由於觀察到令人驚訝的事件或處於「尋找假設的證據」的情況而提出的假設
+									
+						Use both forward- and backward-driven reasoning strategies
+						使用前向和後向驅動推理策略
+						
+							An ideal search will include both going from the hypotheses to the data and from the data to the hypotheses
+							理想的搜尋將包括從假設到數據以及從數據到假設
+
+								[Figure_4.8.png]
+						
+							Relate evidence to hypothesis - “What hypothesis would explain these observations?”
+							將證據與假設聯繫起來 - “什麼假設可以解釋這些觀察結果？”
+							
+							Test hypothesis by evidence found - “Assuming that the hypothesis is true, what other things should be observable?”
+							透過發現的證據檢驗假設 - “假設假設為真，還應該觀察到哪些其他事情？”
+							
+							Evaluate the likelihood of a hypothesis based on the available evidence - “What is the likelihood of the hypothesis based on the available evidence?” 
+							根據現有證據評估假設的可能性 - “根據現有證據，假設的可能性是多少？”
+							
+					Identify the analysis needed for each hypothesis
+					確定每個假設所需的分析
+					
+						Avoid diagnosis problems: pseudodiagnosing, overdiagnosing, and misdiagnosing
+						避免診斷問題：假診斷、過度診斷與誤診
+						
+							Pseudodiagnosing is the tendency to seek diagnostically worthless information and alterone’s conclusion based on that information
+							偽診斷是尋求無診斷價值的資訊並根據該資訊改變結論的傾向 
+						
+							Overdiagnosis refers to the diagnosis of a condition that otherwise would not have caused symptoms
+							過度診斷是指診斷出原本不會引起症狀
+							
+							Misdiagnosing refer to diagnosed with another condition that they do not have
+							誤診是指診斷出其他自己不患有的疾病
+							
+							Gilbert Welch advice
+							吉爾伯特·韋爾奇建議
+							
+								“What are we looking for?” 
+								“我們在找什麼？”
+								
+								“If we find what we are looking for, what will we do differently?” 
+								“如果我們找到了我們想要的東西，我們會採取什麼不同的做法？”
+								
+								“If the data sought will not change the course of action, then we should not seek it.” 
+								“如果所尋求的數據不會改變行動方針，那麼我們就不應該尋求它 ”
+												
+						Focus on variables that rule out competing hypotheses
+						關注排除競爭假設的變數
+											
+							Competitive Hypothesis Analysis (ACH) - An analytical technique the intelligence community uses to systematically evaluate various possible scenarios and establish the most likely one based on the available evidence
+							競爭假設分析 (ACH) - 情報界用來系統評估各種可能場景並根據現有證據確定最有可能的場景的分析技術
+							
+							Use argument/ hypothesis mapping
+							使用論證/假設映射
+
+								Hypothesis maps have four types of elements: claims, reasons, objections, and rebuttals.
+								假設圖有四種類型的元素：主張、理由、反對、反駁。
+							
+									[Figure_4.9.png]
+									
+									Claims
+									主張	
+
+										An idea that someone says is true, phrased as a full declarative sentence.
+										某人說的一個想法是正確的，用一個完整的陳述句來表達。
+
+									Reasons
+									原因
+									
+										A set of claims that work together to provide evidence that another claim is true; in effect, to support that other claim
+										一組主張共同提供證據證明另一個主張是正確的； 實際上，支持其他主張
+									
+									Objections
+									反對意見
+										
+										A set of claims that work together to provide evidence that another claim is false; in effect, to oppose that other claim.
+										一組主張共同提供證據證明另一主張是錯誤的； 實際上，是為了反對其他主張。
+										
+									Rebuttals
+									反駁
+										
+										An objection to an objection
+										對反對的反對
+										
+							Most common error with argument mapping 
+							參數映射最常見的錯誤
+							
+								Confuse multipremise reasons with independent ones
+								將多前提原因與獨立原因混淆
+							
+									Premises that need others to support a claim are not independent
+									需要他人支持主張的處所並不是獨立的
+									
+									Multipremise reasons belong together
+									多個前提原因屬於同一類
+									
+									Independent reasons do not need the help of other elements.
+									獨立原因不需要其他因素的幫助。
+									
+									Using a map may help you realize that just listing the cases of occurrences to support a conclusion does not expose your entire argument
+									使用地圖可能會幫助您認識到僅列出發生的情況即可支持結論並沒有揭露你的整個論點
+																
+									Completing the induction in a map format might help identify where the weakness in your thinking is
+									以地圖形式完成歸納法可能有助於確定您的弱點在哪裡思維是
+
+					Work with evidence
+					使用證據
+						
+						Elements in argument map: Claims, reasons, objections, and rebuttals
+						論證圖中的元素：主張、理由、反對與反駁			
+					
+						Problemistic evidence major characteristics
+						有問題的證據主要特徵
+						
+							Evidence is incomplete
+							證據是不完整的
+							
+							Evidence is frequently inconclusive
+							證據通常是不確定的
+							
+							Evidence is frequently ambiguous
+							證據常常模稜兩可
+							
+							A body of evidence frequently has some level of dissonance
+							大量證據經常存在一定程度的不一致
+							
+							The sources from which the evidence originates are not perfectly credible
+							證據的來源並非完全可信
+							
+						Evidence major characteristics 
+						證據主要特徵
+						
+							Relevance
+							評估相關性
+							
+							Credibility 
+							可信度
+							
+								Credibility Attributes of Evidence
+								證據的可信度屬性
+								
+									Type of Evidence
+									證據類型
+
+										Tangible evidence
+										有形證據
+
+											Credibility Attributes
+											可信度屬性
+
+												Authenticity — is the item of evidence what it purports to be? Deliberate deceptions or mistakes affect authenticity.
+												真實性－證據是否如其所聲稱的？ 故意的欺騙或錯誤會影響真實性。
+
+												Accuracy / sensitivity — if a sensing device was used to obtain the evidence, did it provide the degree of resolution needed?
+												準確性/靈敏度－如果使用感測設備來獲取證據，它是否提供了所需的解析度？
+
+												Reliability — is the process of generating the item of evidence repeatable, dependable, or consistent?
+												可靠性－產生證據的過程是否可重複、可靠或一致？
+
+										Testimonial evidence
+										見證證據
+
+											Credibility Attributes
+											可信度屬性
+
+												Basis for assertion— how did the witness acquire the data? Is the witness appropriately qualified to comment?
+												斷言依據－證人如何取得數據？ 證人是否有適當的資格發表評論？
+
+												Veracity — is the witness being truthful and sincere? Are there no conflicts of interest?
+												真實性－證人是否真實、真誠？ 沒有利益衝突嗎？
+
+												Objectivity — is the witness’s belief based on evidence rather than on expectations or desires? Is the belief free from any significant dispute among relevant experts?
+												客觀性－證人的信念是基於證據而非基於期望或願望嗎？ 有關專家的信念是否沒有任何重大爭議？
+
+												Observational sensitivity — did the witness have adequate sensors (vision, hearing, touch, smell, and taste) under the circumstances (e.g., alcohol consumption, poorly lit scene)?
+												觀察靈敏度－在特定情況下（例如飲酒、光線昏暗的場景），證人是否有足夠的感測器（視覺、聽覺、觸覺、嗅覺和味覺）？
+
+								Test the credibility of evidence until you reach a level where you feel comfortable leaving the claim unsupported
+								測試證據的可信度，直到您達到可以放心離開的水平該主張沒有得到支持
+									
+							Inferential force
+							推理力
+
+						Seek both supporting and opposing evidence
+						尋求支持和反對的證據
+						
+							Relationship between a Hypothesis and Evidence
+							假設與證據之間的關係
+							
+								Case: Hypothesis is consistent complies coheres with the evidence.
+								案例：假設是一致的，符合證據的一致性。
+								
+									Decision on evidence
+									關於證據的決定
+									
+										Supporting
+										配套
+										
+										Favoring
+										有利於
+										
+										Confirming
+										確認
+										
+										Confirmatory
+										確認
+
+									Action on evidence
+									對證據採取行動	
+									
+										Substantiates
+										證實
+										
+										Supports
+										支援
+										
+										Corroborates
+										證實
+										
+										Confirms
+										證實
+										
+										Validates
+										驗證
+										
+										Asserts
+										斷言
+										
+										Verifies
+										驗證
+										
+										Proves
+										證明
+										
+									Based on hypothesis lead to
+									基於假設導致
+									
+										Think it more probable
+										認為更有可能
+
+										Fail to reject it
+										拒絕失敗
+
+										Consider it valid 
+										認為它有效 
+
+										Provisionally accept it
+										暫時接受它
+
+										Accept it
+										接受它
+
+								Case: Hypothesis is inconsistent with the evidence
+								案例：假設與證據不一致
+								
+									Decision on evidence
+									關於證據的決定
+										
+										Opposing
+										反對
+										
+										Contrary
+										相反
+										
+										Countering
+										打擊
+										
+										Negative
+										陰性
+										
+										Refuting
+										反駁
+										
+										Disfavoring
+										不利
+										
+										Disconfirming
+										不確認
+										
+										Disconfirmatory
+										不確認
+										
+										Incompatible
+										不相容的
+										
+										Inconsistent
+										不一致的
+										
+									Action on evidence
+									對證據採取行動
+									
+										Opposes
+										反對
+										
+										Undermines
+										破壞
+										
+										Rebuts
+										反駁
+										
+										Refutes
+										駁斥
+										
+										Contradicts
+										矛盾
+										
+										Challenges
+										挑戰
+										
+										Counters
+										計數器
+										
+										Falsifies
+										偽造
+										
+										Disconfirms
+										不確認
+										
+									Based on hypothesis lead to
+									基於假設導致
+										
+										Think it more
+										多想想
+										
+										Improbable
+										不可能
+										
+										Reject it
+										拒絕它
+										
+						Embrace and facilitate serendipity
+						擁抱並促進偶然性
+						
+				Decide
+				決定
+					
+					Avoid biases
+					避免偏見
+					
+					Use bayesian inference
+					使用貝葉斯推理
+					
+						[Equation_1.png]
+																
+					Use Occam’S Razor
+					使用奧卡姆剃刀
+					
+						All other things being equal, favor the simplest hypothesis that explains your observations
+						在其他條件相同的情況下，支持解釋您的觀察結果的最簡單的假設
+						
+				Draw Conclusions
+				得出結論
+			
+				Avoid shifting the burden
+				避免轉移負擔	
+				
+				Evolution of max Probability on hypothesis
+				假設的最大機率的演變
+
+				A Process for a Bayesian Approach in Evaluating the Probability of War within Four Weeks
+				貝葉斯方法評估四週內爆發戰爭機率的過程
+				
+					[Table_4.6.png]
+					
+				We capture the evidence, our thought process, and our synthesis in the diagnosis maps
+				我們在診斷圖中捕捉證據、思考過程和綜合
+				
+					[Figure_4.17.png]
+
+				Periodically review your diagnostic to decide whether it is sufficiently conclusive. If it is, no need to push it further, instead move on to finding solutions
+				定期檢查您的診斷以確定其是否足夠結論性。 如果是，則無需進一步推動，而是繼續尋找解決方案
+				
+					[Figure_4.18.png]	
+
+	HOW: Find potential solution - How can solve it?
+	HOW: 尋找潛在的解決方案 - 如何解決？
+				
+		Solution Proposal
+		方案建議
+
+			Use Issue map
+			使用問題地圖
+			
+				[Figure_1.6.png]
+				
+			Use ME (mutually exclusive) CE (collectively exhaustive) method
+			使用ME（互斥） CE（窮舉）方法
+					
+			Use divergent and convergent thinking
+			使用發散和聚合思維
+						
+				Diverge : Identify potential solutions
+				發散：確定潛在的解決方案
+				
+				Converge: Select relevent one
+				聚合：選擇相關的一個
+						
+			Decision Tool
+			決策工具
+
+				[Table_1.1.png]			
+
+			Think originally, independently, and critically
+			原創、獨立、批判性思考
+			
+			Critically assess your and others’ findings
+			批判性地評估您和他人的發現
+			
+			Document, synthesize, report, and reflect on progress
+			記錄、綜合、報告和反思進展
+			
+			Apply appropriately the relevant research techniques in your field
+			適當應用您所在領域的相關研究技術
+				
+			Identify and access appropriate bibliographical material and other information
+			識別並獲取適當的書目材料和其他信息
+
+			Find all solutions people commonly think
+			找到人們普遍認為的所有解決方案
+
+			Formulating a solution key question
+			制定解決方案的關鍵問題
+
+			Construct a solution issue map
+			建構解決方案問題圖
+
+			Test hypotheses
+			檢驗假設
+
+			Write a solution definition card
+			編寫解決方案定義卡
+			
+				How card
+				怎麼卡
+						
+					[Figure_5.1.png]
+
+			Develop a solution map
+			開發解決方案映射
+			
+				Solution finding should start with the conscious decision to first generate options before reviewing them and selecting one
+				尋找解決方案應該從有意識地決定開始，首先產生選項，然後再進行審查並選擇一個
+			
+				Solution maps use the same four major rules as diagnostic ones
+				解決方案圖使用與診斷圖相同的四個主要規則
+				
+					Solution maps consistently answer a single type of question
+					解決方案圖始終回答單一類型的問題
+					
+						Diagnostic maps answer a why key question
+						診斷圖回答了「為什麼」這個關鍵問題
+						
+						Solution maps answer a how key question
+						解決方案圖回答如何關鍵的問題
+						
+					Solution maps progress from the key question to the conclusions
+					解決方案將關鍵問題的進展映射到結論
+								
+					Solution maps have mutually exclusive and collectively exhaustive (MECE) branches
+					解決方案圖具有互斥和集體窮舉（MECE）分支
+					
+					Solution are insightful
+					解決方案很有洞察力			
+					
+				Look for alternatives,  not processes
+				尋找替代方案，而不是流程
+				
+					Validate the independence of branches
+					驗證分支機構的獨立性
+
+						Use solution maps to identify alternatives, not to spell out a sequential process
+						使用解決方案圖來確定替代方案，而不是闡明順序過程
+						
+					Ignore desirability and feasibility for now
+					暫時忽略可取性和可行性
+
+				Progress from the key question to the conclusions
+				從關鍵問題到結論的進展
+				
+					Make branches diverge
+					使分支發散
+					
+						Until they reach the set of hypotheses, maps only have burst nodes
+						在到達假設集之前，地圖僅具有突發節點
+					
+					Eliminate instances where a node has a single child
+					消除節點只有一個子節點的情況
+					
+					Further control the number of children: too many is impractical, but two is not necessarily ideal either
+					進一步控制孩子數量：太多不切實際，但兩個不一定理想
+					
+						To help ensure that nodes add value, identify the variable that is changing in each node
+						為了幫助確保節點增加價值，請識別每個節點中正在變化的變量
+							
+							The variable is what is changing; in this case, the objects in the street where we can post announcements
+							變數是指正在改變的事物； 在這個例子中，是街道上我們可以張貼公告的物體
+							
+							The states are the values that the variable can take, that is, the actual objects
+							狀態是變數可以取的值，即實際的對象
+							
+					Identify the value of each node
+					識別每個節點的值
+
+					Do not force branches to have the same depth if not needed
+					如果不需要，不要強制分支具有相同的深度
+
+					Stop drilling when the map is sufficiently explicit
+					當地圖夠清晰時停止鑽探
+					
+						To identify whether adding a node is warranted, first reflect on the value of adding it
+						要確定添加節點是否合理，首先要反思添加節點的價值
+					
+				Be more MECE
+				更MECE
+				
+					Be more MECE by following the holding hands rule
+					遵循牽手規則，變得更 MECE
+					
+						An element and its children should hold hands
+						一個元素和它的子元素應該手牽手
+					
+					Be more ME by differentiating causes from consequences
+					透過區分原因和結果，變得更加自我
+					
+					Be more CE by choosing the right idea-generation macro activity
+					透過選擇正確的創意生成宏觀活動，變得更加CE
+					
+					Brainstorm
+					腦力激盪
+
+
+						Encourage strange /“dumb”/ wild ideas
+						鼓勵奇怪/“愚蠢”/瘋狂的想法
+						
+						Shoot for quantity of ideas, not quality
+						注重創意的數量，而不是質量
+						
+						Encourage the use of one idea to generate others
+						鼓勵使用一種想法來產生其他想法
+
+						Factor of limit the effectiveness of brainstorming
+						限制腦力激盪有效性的因素
+
+							Social loafing is a tendency for people who are part of a group to not work as hard as they would individually
+							社交偷懶是指屬於某個群體的人不努力工作的一種傾向就像他們單獨做的那樣 當人們覺得自己的貢獻將無法與其他人的貢獻區分開來
+							
+							Conforming is adapting one’s ideas for fear of negative evaluations, which drives contributions toward conservativeness and similarity
+							順應是因為害怕負面評價而調整自己的想法，這會促使貢獻趨於保守與相似
+							
+							Production blocking is losing one’s train of thought as a result of having to listen to others’ ideas
+							生產阻塞就是因為要聽別人的想法而失去思路
+									
+							Downward norm setting is having the performance of group members converge toward that of the least- performing individuals in the group
+							向下規範設定是讓小組成員的表現向小組中表現最差的個人靠攏
+							
+							Importance of receptivity: There is no point in having your team create many ideas if they are going to shoot them down right there and then.
+							接受能力的重要性：如果你的團隊要當場否決這些想法，那麼讓他們創造很多想法是沒有意義的。
+							
+							Do not spend too much time on any single idea
+							不要在任何單一想法上花費太多時間
+							
+						Brainwriting 
+						腦力激盪
+
+						Use the Delphi method
+						使用德爾菲法
+						
+							Participants never meet face to face; instead they write down individually their proposed solutions for the problem as well as their rationales
+							參與者從不面對面見面； 相反，他們單獨寫下他們提出的問題解決方案及其理由
+
+						Be more CE by choosing the right idea-generation micro activity
+						透過選擇正確的創意產生微活動，變得更加CE
+
+						Use analogies
+						使用類比
+						
+						Challenge assumptions
+						挑戰假設
+						
+						Do not limit yourself to eliminating the problem
+						不要限制自己去解決問題
+
+						Think about the opposite
+						想想相反的事情
+						
+						Dissect the problem
+						剖析問題
+						
+						Differentiate innovation from Innovation
+						創新與創新的區別
+						
+						Debate
+						辯論
+						
+						Evaluate your creativity
+						評估你的創造力
+						
+						Give your subconscious time to work
+						給你的潛意識發揮作用的時間
+							
+						Reframe your thinking
+						重建你的思維
+						
+						Formulate all elements as actions that you can take
+						將所有元素表述為您可以採取的行動
+						
+							Concentrate on what you can do to solve the problem
+							專注於你能做些什麼來解決問題
+							
+						Chase outliers
+						每個節點引入一個變數
+						
+							Chasing outliers can help you acquire additional insight.
+							追逐異常值可以幫助您獲得更多洞察力。
+											
+						Introduce one variable per node
+						追逐異常值
+						
+					Eliminate distractions
+					消除乾擾
+					
+						Be parallel
+						平行
+						
+						Parallelism applies both to how the ideas are formulated and what they actually are.
+						並行性既適用於想法的表達方式，也適用於它們的實際情況。
+														
+					Assemble a good team
+					組建一支優秀的團隊
+						
+						Ensure that you can overcome the price of diversity
+						確保您能夠克服多樣性的代價
+					
+				Link all elements to a formal hypothesis
+				將所有元素連結到正式假設
+				
+					[Figure_5.13.png]
+
+		Solution Selection
+		方案選擇
+
+			Build Decision Tool Matrix
+			建構決策工具矩陣
+
+			Selecting best solutions 
+			選擇最佳解決方案
+			
+			Conduct yourself appropriately (legally, ethically, responsibly, etc.)
+			行為得體（合法、道德、負責任等）
+			
+			Understand the context in which your research takes place
+			了解您的研究進行的背景
+			
+			Understand process for funding
+			了解融資流程
+			
+			Ralph Keeney  - “a formalization of common sense for decision problems which are too complex for informal use of common sense"
+			拉爾夫·基尼 - 決策問題的常識形式化，這些問題過於複雜，無法非正式地使用常識"
+
+			Remove unsuiTable_alternatives
+			刪除不合適的替代品
+
+				Map solution to all requirment under set of hypotheses
+				將解決方案映射到一組假設下的所有需求
+				
+					Validate the option
+					驗證選項
+				
+						The proposed solution is Feasible (I can do it)
+						建議的解決方案是可行的（我可以做到）
+						
+						The proposed solution is Desirable (I want to do it)
+						建議的解決方案是理想的（我想做）
+						
+				Use Gauch’s full-disclosure model
+				使用Gauch 全面披露模型
+				
+					All possible courses of action
+					所有可能的行動方案
+				
+						[Figure_6.2.png]
+
+				Use van Gelder’s and Rice’s David Leebron’s SAILS screen
+				使用 van Gelder 和 Rice 的 David Leebron 的 SAILS 螢幕
+				
+					Elements of a major business decision
+					重大業務決策的要素
+				
+						van Gelder’s screen
+						範格爾德的螢幕	
+						
+							Strategically sound
+							戰略上合理
+							
+							Financially sound
+							財務狀況良好
+							
+							Operationally sound
+							運作良好
+							
+							Prudentially sound (i.e.,acceptable from a risk perspective)
+							審慎合理（即從風險角度來看可以接受）
+							
+							Ethically sound
+							符合道德規範
+							
+							Legally sound
+							合法合理	
+						
+						Leebron’s SAILS
+						勒布朗的帆
+						
+							Strategic
+							策略
+							
+							Accountable
+							負責任的
+							
+							Impactful
+							有影響力
+							
+							Leveraged
+							槓桿化
+							
+							Sustainable
+							可持續的
+							
+				Discard unfeasible alternatives
+				放棄不可行的替代方案。
+					
+					[Figure_6.4.png]
+					
+			Look for evidence
+			尋找證據
+
+				Usual substitutes of evidence
+				通常的證據替代品
+
+					Obsolete knowledge - Relying on old data
+					過時的知識 - 依賴舊數據
+
+					Personal experience - Acquired personal Information 
+					個人經驗 - 獲得的個人訊息
+
+					Specialist skills -  Use the most experience approach only
+					專業技能 - 僅使用最有經驗的方法
+
+					Hype - Based gurus recommendation
+					Hype - 基於專家推薦
+				
+					Dogma/belief - Influenced by ideology
+					教條/信仰 - 受意識形態影響
+
+					Inappropriate benchmarking - Imitation of top performers
+					不恰當的標竿管理－模仿頂尖表現者
+
+
+				Evidence strength grade
+				證據強度等級
+
+					Level 1: Evidence obtained from at least one properly designed randomized controlled trial
+					第1級：從至少一項設計合理的隨機對照試驗中獲得的證據
+
+					Level II-1: Evidence obtained from well-designed controlled trials without randomization
+					第2-1級：從精心設計的非隨機對照試驗中獲得的證據
+
+					Level II-2: Evidence obtained from well-designed cohort or case-control analytic studies, preferably from more than one center or research group
+					第2-2級：從精心設計的隊列或病例對照分析研究中獲得的證據，最好來自多個中心或研究小組
+
+					Level II-3: Evidence obtained from multiple time series with or without intervention. Dramatic results in uncontrolled trials might also be regarded as this type of evidence
+					第2-3級：從有或沒有介入的多個時間序列中獲得的證據 非對照試驗中的戲劇性結果也可能被視為此類證據
+
+					Level III: Opinions of respected authorities, based on clinical experience, descriptive studies, or reports of expert committees
+					第3級：受尊敬的權威機構是基於臨床經驗、描述性研究或專家委員會報告的意見
+			
+					Not all evidence is equally trustworthy
+					並非所有證據都同樣值得信賴
+				
+					[Figure_6.5.png]
+					
+				Answers Triangulate
+				三角答案
+				
+					Triangulate on answers to get evidence from independent sources to improve the reliability of your analysis
+					對答案進行三角測量，從獨立來源取得證據，以提高分析的可靠性
+							
+					Everything else held equal, the more sources the better 
+					在其他條件相同的情況下，光源越多越好
+
+					Different perspectives are better than similar ones
+					不同的視角比相似的視角要好
+					
+					Maps are useful to capture  analysis, evidence, and conclusions
+					地圖有助於捕捉分析、證據和結論
+					
+						[Figure_6.7.png]
+
+				Capture analysis results 
+				捕獲分析結果
+
+					At most, a scientific argument may be correct; at least, it should be fully disclosed. Full disclosure is the first and minimal requirement for clear scientific reasoning
+					最多，科學論證可能是正確的 至少應該完全披露它 全面披露是清晰的科學推理的第一個且最少的要求 
+
+			Compare the performance of the remaining alternatives and decide
+			比較其餘替代方案的性能並做出決定
+
+				Use a multiattribute utility decision tool
+				使用多屬性效用決策工具
+				
+					Simple multiattribute rating technique exploiting ranks (SMARTER)
+					利用排名的簡單多屬性評級技術 (SMARTER)
+					
+						Identify the decision maker
+						確定決策者
+						
+						Identify the alternative courses of action
+						確定替代行動方案
+							
+						Identify the attributes of the decision
+						確定決策的屬性
+						
+							Complete - the set covers all the important aspects of the problem
+							完整 - 該集涵蓋了問題的所有重要方面
+							
+							Operational - the set can be meaningfully used in the analysis
+							可操作 - 該集合可以在分析中有意義地使用
+							
+							Decomposable - aspects of the evaluation process can be simplified by breaking it down into parts
+							可分解 - 評估過程的各個方面可以透過將其分解為多個部分來簡化
+							
+							Nonredundant - there is no double counting of impacts
+							非冗餘 - 不會重複計算影響
+							
+							Minimal - the problem is kept as small as possible
+							最小化 - 問題盡可能小
+							
+							Attributes of Decision
+							決策的屬性
+							
+								Individual likelihood of success
+								個人成功的可能性
+								
+								Timeliness
+								時效性 
+								
+								Speed of success 
+								成功的速度
+								
+								Low cost
+								低成本
+								
+						Evaluate the performance of each alternative on each attribute
+						評估每個替代方案在每個屬性上的表現
+						
+							Likelihood of Success
+							成功的可能性
+						
+							Translate to score
+							翻譯成分數
+						
+						Assign a weight to each attribute
+						為每個屬性分配權重
+						
+							Evaluate the Performance of all Alternatives on Other Attributes
+							評估所有替代方案在其他屬性上的表現
+													
+							Rank Order Centroid (ROC)
+							排序質心 (ROC)
+							
+								[roc-equation.png]
+								
+								[roc.png]
+								
+						Compute a weighted average score for each alternative
+						計算每個備選方案的加權平均分數
+						
+							Action Ranking
+							行動排名
+						
+							Weights of Attributes
+							屬性權重
+						
+							Evaluating the Performance of Alternatives and Weighting Attributes
+							評估替代方案的性能和加權屬性
+							
+						Make a provisional decision
+						做出臨時決定
+						
+						Perform sensitivity analysis
+						進行敏感度分析
+
+			Capture quick and small wins
+			取得快速而小的勝利
+			
+				Target easy problems
+				針對簡單問題
+				
+				Cumulative solutions with lower individual contributions may be significant
+				個人貢獻較低的累積解決方案可能意義重大
+				
+					[Figure_6.8.png]
+					
+		Solution Promotion
+		方案推廣	
+
+			Determine objective
+			確定目標
+			
+				Change audience’s thinking and behavior
+				改變聽眾的思維和行為
+
+					From– To/ Think– Do Matrix
+					從-到/思考-做矩陣
+						
+						From-Think
+						從思考	
+							
+							What they think now
+							他們現在怎麼想
+							
+						To-Think
+						後思考
+						
+							What they should think after the presentation						
+							演講結束後他們該怎麼想
+							
+						From-Do
+						從行動
+						
+							What they do (or do not do) now
+							他們現在做什麼（或不做什麼）
+							
+						To-Do
+						後行動
+						
+							What they should do (or stop doing) after the presentation
+							演示結束後他們應該做什麼（或停止做什麼）
+							
+			Storying telling
+			講故事
+				
+				Stories create anticipation, helping an audience maintain attention
+				故事創造了預期，幫助觀眾保持注意力
+
+				Link various complex elements and enhances recollection framework
+				連結各種複雜元素，創造增強回憶框架
+
+				Introduce emotions
+				引入情緒
+
+				Prepare Slide
+				準備幻燈片
+
+					Distribute story onto taglines
+					將故事分配到標語上
+						
+						[Figure_7.2.png]
+
+					Summarizing story at high level
+					總結高層次故事
+					
+					Placing one idea (tag line) per slide
+					一張幻燈片一個想法(標語)
+
+					Add support evidence to tag line
+					支援證據		
+					
+						Populate the body of the slides with the evidence that supports each tagline.
+						用支持每個口號的證據填入投影片的正文。
+						
+							[Figure_7.3.png]
+						
+						Use your slide deck as a central repository for your analysis, relegating to the appendix whichever ideas are not needed for your presentation
+						以投影片作為分析的中央儲存庫，將簡報不需要的想法歸入附錄
+
+							[Figure_7.4.png]
+							
+					Starting early in project and capturing findings in slides
+					專案開始,進行記錄過程在幻燈片中
+
+					Right Arguments
+					使用正確的參數
+					
+						Aristotelian persuasion 
+						亞里斯多德勸說服力
+						
+							Aristotelian persuasion has three pillars: ethos, pathos, and logos
+							亞里斯多德的說服有三大支柱：精神、悲情和理性
+							
+								[Figure_7.5.png]
+							
+								Ethos (character/ reputation/ credibility)
+								精神（品格/聲譽/可信度）
+
+									Tone, message style, reputation, talented, kind, able, honest, clothes ,grooming
+									語調、訊息風格、聲譽、有才華、善良、能幹、誠實、 衣服、 儀容
+						
+									The popularity of management gurus who profess theories with little data to support their message indicates a lack of questioning by executives
+									人們接受資訊的人會根據誰來傳遞資訊，而不會深入質疑其實質內容	
+
+									Stealing thunder - Not only present supports data but also present opposing claims and refute them convincingly
+									搶風頭－不僅提供支持數據，還提供相反的主張並令人信服地反駁
+
+								Pathos (emotions)
+								悲情（情緒）
+
+									Emotion is a lot more effective than just using logic
+									情感比僅僅使用邏輯更有效
+
+								Logos (logic) 
+								標誌（邏輯）
+
+									Use multidimensional arguments
+									使用多維論證
+
+								Kairos (timing)
+								凱羅斯（計時）
+
+						Use a strong introduction
+						使用強有力介紹
+
+							Purpose explains why the audience is there
+							目的解釋了為什麼觀眾會在那裡
+
+							Importance spells out why resolving the issue today is critical
+							重要性闡明了為什麼今天解決這個問題至關重要
+
+							Preview gives the audience a summary of the structure of the presentation
+							預覽為觀眾提供了演示文稿結構的摘要
+
+						Skillfully advise the decisionmakers
+						巧妙地為決策者提供建議
+
+							Provide information not recommending 	
+							提供資訊但不是以推薦的方式
+						
+					Identify the right level of detail for the specific presentation 
+					確定特定簡報的正確詳細程度
+					
+					Include all and only what is needed
+					包含所有且僅包含需要的內容
+
+					Select the right level of detail
+					選擇正確的詳細程度
+
+						[Figure_7.6.png]
+
+					Find a good sequence
+					找到一個好的序列
+
+					Resist the temptation to report analysis process
+					抵制報告分析過程的誘惑
+					
+						More Analysis detail, less effective communication
+						更多分析細節，更少有效溝通
+						
+					Starting with the conclusion and then presenting support
+					從結論開始，然後提出支持
+					
+			Use effective slide design
+			使用有效的幻燈片設計
+
+				Clear storyline and good slide design
+				清晰的故事情節和良好的幻燈片設計
+
+					Presentations answer a continuum of needs, which should impact slide design
+					簡報滿足了一系列需求，這應該會影響投影片設計
+					
+						Visual support for presentation
+						演示的視覺支持	
+							
+							Presents main ideas only, not details
+							僅提出主要想法，不涉及細節
+							
+							Has few words on slides (<~40)
+							幻燈片上的文字很少（<~40）
+							
+							Uses large fonts
+							使用大字體
+							
+							May use more photos
+							可能會使用更多照片
+							
+							Self-sufficient
+							自給自足
+							
+							Uses assertion-evidence structure
+							使用斷言-證據結構
+							
+						Postpresentation record
+						演講後記錄
+						
+							Presents main ideas and supporting details
+							提出主要想法和支持細節
+							
+							May have more words on slides
+							幻燈片上可能有更多文字
+							
+							Uses various font sizes to show the pyramid on the slides
+							使用各種字體大小在投影片上顯示金字塔
+							
+							Self-sufficient
+							自給自足
+							
+							Uses assertion-evidence structure
+							使用斷言-證據結構
+							
+				Define primary purpose
+				定義主要用途
+				
+				Understand two extremes
+				兩個極端
+				
+					Slide decks can have various purposes; their primary objective, rather than personal preferences, should dictate the slide design
+					幻燈片有多種用途； 他們的主要目標，而不是個人喜好，應該決定投影片的設計
+					
+						[Figure_7.11.png]
+
+				Visual support or Postpresentation
+				視覺支援或後期演示
+
+				Six critical design principles
+				六個關鍵設計原則
+
+					Multimedia principle - learn better from words and pictures than from words alone
+					多媒體原理 - 從文字和圖片中學習比僅從文字中學習得更好
+
+					Contiguity principle  - Minimize spacial and temporal separation between various forms of information
+					 連續性原則  - 減少各種形式的信息之間的空間和時間分離
+
+					Redundancy principle - Individuals benefit from complementary, but not identical, information presented visually and aurally
+					 冗餘原則  - 以視覺和聽覺呈現的互補但不完全相同的資訊
+
+					Modality principle - Learn better when the words are spoken rather than printed
+					模態原則  - 當單詞被說出而不是列印出來時，人們會學得更好
+
+					Coherence principle - Remove all nonessential information to help the audience integrate critical relationships and concepts
+					 連貫性原則  - 刪除所有不必要的資訊，以幫助受眾整合關鍵關係和概念
+
+					Signaling principle - Provide audience with cues to help them understand the structure of your presentation and how the concepts interrelate
+					信號原則 - 為聽眾提供提示，以幫助他們理解演示文稿的結構以及概念如何相互關聯
+
+				Use assertion-evidence slide structure
+				使用斷言-證據結構
+				
+					Present one idea per slide
+					每張幻燈片提出一個想法
+
+					Use the tagline to spell out the slide’s main idea in a declarative sentence
+					使用標語在陳述句中拼出幻燈片的主要思想
+					
+					Use an assertion– evidence structure in which the tagline is a full declarative sentence and the body of the slide presents evidence that supports it
+					使用斷言-證據結構，其中標語是完整的陳述句，幻燈片正文提供支持它的證據
+					
+						[Figure_7.12.png]
+					
+					In taglines, avoid static assertions— those statements that are correct but add little value instead, favor assertions that link to other ideas
+					在標語中，避免靜態斷言——那些正確但幾乎沒有增加價值的陳述，而傾向於與其他想法相關聯的斷言
+				
+					Sentence taglines advantages
+					句子標語的優點
+					
+						Foster recall
+						促進回憶
+
+						Orient audience
+						定向觀眾
+
+						Build compelling story
+						建構引人入勝的故事
+
+						Improve logic
+						改善邏輯
+			
+						Deliver presentation in short time
+						短時間內完成演示
+
+						Groundwork for discussion
+						討論的基礎
+
+						Build powerful reference deck
+						建立強大的參考資料庫
+
+				Slide design
+				投影片設計
+					
+					Characteristics of Effective Slides and Implications
+					有效幻燈片的特點和意義
+				
+						Effective slide design
+						有效的投影片設計
+						
+							Adapt to the audience
+							適應觀眾
+							
+								Focus on what the information means to that audience (the “so what?”) rather than just presenting information
+								專注於訊息對受眾意味著什麼（「那又怎樣？」），而不僅僅是呈現訊息
+								
+							Maximize signal- to- noise ratio	
+							最大化信噪比
+							
+								Have as little text as possible to avoid competing with the audience’s attention (which relates to the multimedia, modality, and coherence principles).
+								文字盡可能少，以避免爭奪觀眾的注意力（這與多媒體、形式和連貫性原則有關）。
+								
+							Use effective redundancy						
+							使用有效的冗餘
+							
+								Be stand- alone (as the presenter’s spoken text): “deaf” audience members should understand the message by only looking at the slides and “blind” members should also be able to understand it by listening only.
+								獨立（如簡報者的口頭文字）：「聾子」觀眾應該僅透過觀看投影片來理解訊息，「盲人」觀眾也應該能夠僅透過聆聽來理解訊息。
+								
+					Use a consistent template
+					使用一致的模板
+
+					Use colors effectively
+					有效地使用顏色
+
+					Use large-enough fonts
+					使用足夠大的字體
+
+					Use proper font types
+					使用正確的字體類型
+
+					Draw attention with bold characters
+					用粗體字吸引註意力
+
+					Use a clear and concise style
+					使用清晰簡潔的風格
+
+					Avoid redundancy of written and oral tex
+					避免書面和口頭文字的冗餘
+
+						Avoid Bloating
+						避免腹脹
+			
+							In order to -> to
+							為了 -> 為了
+							
+							In the event of -> if
+							如果發生 -> 如果
+							
+							Each and every -> each
+							每一個 -> 每一個
+
+							Forward progress -> progress
+							前進進度->進度
+							
+							Merge together -> merge
+							合併在一起->合併
+							
+							Goals and objectives -> goals (or objectives)
+							目標和目標 -> 目標（或目標）
+							
+							Prior to -> before
+							之前 -> 之前
+							
+							Utilize -> use
+							利用->使用
+							
+							Personal opinion -> opinion
+							個人意見->意見
+							
+							In reference to -> about
+							參考->關於
+							
+							The reason for -> because
+							原因 -> 因為
+							
+					Do not write sideways
+					請勿橫著寫
+
+					Keep slides simple
+					保持幻燈片簡單
+
+					Format tables
+					設定表格格式
+					
+					Consider using analogies
+					考慮使用類比
+					
+					Close on a high
+					收高位				
+
+					Use right visual support
+					使用正確的視覺支持
+								
+					Use good quantitative charts
+					使用好的定量圖表
+					
+						[Figure_7.17.png]
+					
+					Avoid pseudo-3D graphics
+					避免偽 3D 圖形
+									
+					Format bar charts to improve legibility
+					設定長條圖格式以提高易讀性
+				
+						[Figure_7.19.png]
+
+					Use a waterfall chart to represent parts of a whole
+					使用瀑布圖來表示整體的各個部分
+				
+						[Figure_7.20.png]
+					
+					Use a bubble chart to represent data that depends on more than two variables
+					使用氣泡圖表示依賴兩個以上變數的數據
+									
+						[Figure_7.21.png]
+
+					Use good concept visuals
+					使用良好的概念視覺效果
+									
+						[Figure_7.22.png]
+						
+					Use spacial-flow opportunities
+					利用空間流動機會
+					
+						[Figure_7.23.png]
+						
+					Use images that explain
+					使用能夠解釋的圖像
+				
+				Finalize message
+				完成訊息
+			
+			Deliver
+			交付
+			
+				Aim at the presentation being an anticlimax
+				力求讓演講達到虎頭蛇尾的效果
+				
+				Leverage reciprocity
+				利用互惠
+				
+				Bring a backup of your presentation on a different medium
+				將簡報備份到其他媒體上
+				
+				Use pitch to highlight your message
+				使用音調來突出顯示您的訊息
+				
+				Use volume to signal transitions
+				使用音量來表示轉換
+				
+				Modulate your pace for emphasis
+				調整你的節奏以強調重點
+				
+				Appreciate silence
+				欣賞沉默
+				
+				Make eye contact to engage your audience
+				進行眼神交流以吸引觀眾
+				
+				Find a relaxed default position that works for you
+				找到適合您的輕鬆預設姿勢
+				
+				Work in harmony with your slides
+				與您的投影片協調一致
+				
+				Use short sentences in the active voice
+				使用主動語態的短句
+				
+				Anticipate questions
+				預測問題
+				
+				Decide when to argue and when not to
+				決定何時爭論、何時不爭論
+				
+				Use your answer to connect
+				使用您的答案進行連接
+				
+				Show how story develops
+				展示故事如何發展
+				
+				Logic-driven approach for results communication
+				結果溝通的邏輯驅動方法
+	
+	DO: Implement solutions
+	DO: 實施解決方案
+
+		Solution Implementation
+		方案實施
+
+			Use divergent and convergent thinking
+			使用發散和聚合思維
+										
+				Diverge: Identify potential action
+				發散：確定潛在的行動
+				
+				Converge: Select relevent one
+				聚合：選擇相關的一個
+
+			Honess to yourself
+			對自己誠實
+		
+			Use evidence Only
+			僅使用證據
+			
+				More information can provide unwarranted confidence and dilute the diagnosticity of other information items
+				更多資訊可能會提供無根據的信心並削弱其他資訊項目的診斷性
+			
+				Seek only diagnostic evidence. Ensure that sources of information are independent
+				僅尋求診斷證據。 確保資訊來源獨立
+		
+			Prevent over confident 
+			防止過度自信	
+			
+				Seek feedback on your predictions, hold yourself accountable, and consider contrary evidence
+				尋求對你的預測的回饋，讓自己負責，並考慮相反的證據
+			
+			Don't over trust Expert
+			不要過度相信專家
+				
+				Expertise comes with preconceptions that can introduce biases when considering data  and an inability to modify old thinking 
+				專業知識伴隨著先入之見，這些先入為主可能會在考慮數據時引入偏見，並且無法改變舊思維
+				
+				Use experts and novices judiciously
+				使用專家和新手明智地
+
+			Don't over trust Intuition
+			不要過度相信直覺
+				
+				Humans are heavily biased, so intuition is not necessarily trustworthy
+				人類有很大的偏見，所以直覺不一定可靠
+			
+				Decide quickly only if you are likely to pick the right answer, the cost of error is low, and swiftness brings high rewards
+				僅當您願意時才快速做出決定可能會選出正確的答案，錯誤成本低且速度快帶來高回報
+
+			Problem solving is primarily about finding solutions
+			解決問題主要是關於尋找解決方案
+			
+				Do not jump into identifying solutions before framing and diagnosing your problem appropriately
+				不要急於識別框架之前的解決方案和診斷你的問題適當地
+				
+			Convincing key stakeholders that our conclusions are right
+			讓主要利害關係人相信我們的結論是正確的
+			
+			Effectively leading teams
+			有效領導團隊
+		
+			Project Management 
+			專案管理
+			
+				Set goals and intermediate milestones
+				設定目標和中期里程碑
+				
+				Prioritize activities
+				確定活動的優先順序
+				
+			Personal Effectiveness
+			個人效能
+			
+				Be willing and able to acquire knowledge
+				願意並且能夠獲得知識
+				
+				Be creative, innovative, and original
+				具有創造性、創新性和原創性
+				
+				Be self- reliant, work independently, and show initiative
+				自力更生，獨立工作，表現出主動性
+				
+				Be flexible and open- minded
+				保持靈活和開放的心態
+				
+				Be self- aware and identify own training needs
+				保持自我意識並確定自己的培訓需求
+				
+				Be self- disciplined, motivated, and thorough
+				自律、積極、徹底
+				
+				Recognize your boundaries and ask for help as needed
+				認識自己的界限並根據需要尋求幫助
+				
+			Communication
+			溝通
+			
+				Write clearly with an appropriate style
+				以適當的風格寫清楚
+									
+				Build coherent and compelling arguments tailored to audiences
+				為受眾量身打造連貫且令人信服的論點
+				
+				Support the learning of others
+				支持他人的學習
+				
+				Contribute to the public understanding of your research field
+				有助於大眾了解您的研究領域
+				
+			Networking and Team Work
+			網路和團隊合作
+			
+				Develop and maintain cooperative networks
+				開發和維護合作網絡
+				
+				Manage effectively relationships up, down, and sideways in your organization and elsewhere
+				有效管理組織和其他地方的上、下和橫向關係
+				
+				Understand your contribution and impact to the success of teams (formal and informal)
+				了解您對團隊成功的貢獻和影響（正式和非正式）
+				
+				Listen, give and receive feedback, and respond appropriately
+				傾聽、提供和接收回饋，並做出適當的回應
+				
+			Career Management 
+			職涯管理
+			
+				Partake in ongoing professional development
+				參與持續的專業發展
+				
+				Identify key success factors for progression in your targeted professional path
+				確定目標職業道路上進步的關鍵成功因素
+				
+				Take ownership of your career progression: set challenging yet realistic goals and identify ways to improve your employability
+				掌握自己的職涯發展：設定具有挑戰性但現實的目標，並找出提升
+				
+				Demonstrate insight in the transferability of your skill set to other disciplines
+				就業能力的方法
+				
+				Present your profile through the use of curriculum vitae/ résumés, cover letters, and interviews
+				展示對您的技能可轉移到其他學科的洞察力
+				
+				Strike an appropriate work– life balance
+				實現工作與生活的適當平衡
+							
+			Enlist others
+			招募其他人
+			
+			Leverage diversity
+			利用多樣性
+			
+			Simplify to reveal the underlying structure
+			簡化以揭示底層結構
+			
+			Avoid hindsight bias & confirmation bias 
+			避免事後偏見和確認偏見
+			
+			Adopt an evidence- based approach
+			採用循證方法
+			
+			Confidence level : Knowing what you know and knowing what you do not know
+			信賴度：知道自己知道什麼，知道自己不知道什麼
+			
+			Scientific thinking: avoid Occam’s razor and remaining skeptical about any reason 
+			科學思維：避免奧卡姆剃刀並對任何理由保持懷疑
+
+			A project charter summarizes a project’s critical information
+			專案章程總結了專案的關鍵訊息
+				
+				[Figure_8.1.png]
+
+			ORGANIZE PROJECT	
+			組織項目
+
+				Managing the expectations of stakeholders
+				持份者的期望管理
+
+					A critical component of managing expectations is to ensure that these people understand the project
+					管理期望的一個關鍵組成部分是確保這些人瞭解專案
+					
+						(1)will deliver, what it 
+						(1)交付什麼
+						
+						(2)will not deliver
+						(2)不會交付什麼
+						
+						(3)how long it will take
+						(3)需要多長時間
+						
+						(4)how much it will cost
+						(4)成本是多少
+						
+						(5)how much cost it will save
+						(5)節約成本是多少
+						
+						(6)how it will be completed
+						(6)如何完成
+						
+						(7)what the benefits will be 
+						(7)收益是什麼
+						
+						(8)what drawback eliminated
+						(8)消除什麼缺陷
+						
+				Develop the project plan
+				制定項目計劃
+
+					Define key aspect of the project: its scope, objectives, deliverables, risks, deadlines, roles, etc
+					建立關鍵項目：範圍、目標、可交付成果、風險、截止日期、角色等  
+
+
+					Agreeing with the stakeholders on all aspects of the project
+					各個方面與利益相關者達成一致
+
+					If there are differences, better stakeholders and project team arise early on than later
+					如果存在差異，儘早出現總比以後出現要好
+
+					Reach deliverables that summarizes the key characteristics of the project and sign it. Formalize mandate, crystalize the project scope, preventing scope creep
+					總結專案的關鍵特徵並簽署,明確專案負責人, 專案範圍，防止範圍蔓延 
+
+
+				Develop the work plan
+				制定工作計劃
+
+					Use Gantt chart to document 
+					使用甘特圖記錄
+					
+						Break down project into pieces
+						將專案分解為多個部分
+
+						Define goals and deadlines for each activity
+						定義每項活動的目標和截止日期
+
+						Identifying potential dependencies
+						確定潛在的依賴關係
+
+						Assign resources—people  and equipment
+						分配資源（人員和設備）
+					
+						 “Hofstadter’s Law: it always takes longer than you expect, even when you take into account Hofstadter’s Law.”
+						霍夫施塔特定律：即使考慮到霍夫施塔特定律，它總是比你預期的要長
+
+				Define success
+				定義成功
+
+					To evaluate how successful the project is, identify appropriate metrics, or key performance indicators (KPIs)
+					為了評估專案的成功程度，確定適當的指標或關鍵績效指標 （KPI）
+
+			Manage Project
+			管理專案
+
+				Successful integration depends upon the shared perception of both partnering organizations that aspects of the other culture (social, political, cultural, and cognitive dimensions) are attractive and worth preserving
+				成功的整合取決於兩個合作組織的共同看法，即對方文化的某些方面(社會、政治、文化和認知維度)具有吸引力並值得保留
+
+				Lead Team
+				領導團隊
+					
+					Type of Team
+					團隊類型
+
+						Face-to-face team
+						面對面團隊
+
+							Key Characteristic : Our common idea of what a team is. Members sit together and rely heavily on their interactions with one another.
+							主要特徵：我們對團隊的共同看法。 成員坐在一起，嚴重依賴彼此之間的互動。
+
+							Indication : When output requires contributions from diverse members with complementary expertise.
+							指示：當產出需要來自具有互補專業知識的不同成員的貢獻。
+
+						Virtual team
+						虛擬團隊
+
+							Key Characteristic : As face- to- face but members are not co- located
+							主要特徵：面對面但成員不共處一處
+
+							Indication : When interdependent tasks are needed but members live in different places.
+							指示：當需要相互依賴的任務但成員居住在不同的地方。
+
+						Surgical team
+						手術團隊
+
+							Key Characteristic : Members work together but one individual is ultimately responsible. The focus is on ensuring that the lead has all the assistance that members can provide
+							主要特徵：成員一起工作，但最終由一個人負責。 重點是確保領導者獲得成員可以提供的所有幫助
+
+							Indication : When extremely high individual insight, expertise, and/ or creativity is needed. It is the writing of a play, rather than its performance.
+							指示：當需要極高的個人洞察力、專業知識和/或創造力時。 這是戲劇的寫作，不是表演。
+
+						Co- acting team
+						合作團隊
+
+							Key Characteristic : Members have their own tasks in the group.
+							主要特徵：成員在小組中有自己的任務。
+
+							Indication : When tasks require parallel efforts with little interactions
+							指示：當任務需要並行努力且互動很少時
+
+						Sand dune team:
+						沙丘團隊：
+
+							Key Characteristic : Have fluid composition and boundaries: people become members and leave as needed. They may have a more solid core.
+							主要特徵：具有流動性的組成和邊界：人們成為成員並根據需要離開。 他們可能有更堅實的核心。
+
+							Indication : When resources are scare.
+							指示：資源匱乏時。
+
+					Team leader should have a scope of responsibility that exceeds that of formal authority, which requires you to be a skilled coordinator and influencer
+					團隊負責人的職責範圍超出的正式許可權，要求成為一名熟練的協調員和影響者
+
+					Using “temporary” teams to solve complex, ill- defined problems 
+					使用“臨時”團隊來解決複雜、定義不清的問題
+
+					Improved team work by non- technical skills training
+					非技術技能培訓可以改善團隊合作
+
+					Forming homogeneous team
+					組建更同質團隊
+
+					Using heterogeneous team in the early stages of problem solving but relying on a homogeneous one for implementation
+					在解決問題早期的使用異構團隊，但依靠同質團隊進行實施
+					
+					Look for high social skills in your potential team members, look for people who are good at working together
+					尋找高社交技能的團隊成員 ，要尋找善於合作的人 
+				 
+					Value and use emotional intelligence
+					重視和使用情商
+
+					Actively managing emotions is an important component of team leadership effectiveness
+					積極管理情緒是團隊領導效率的重要組成部分
+
+					Training to be good listener
+					訓練成優秀傾聽者
+
+					Developing emotional quotient or emotional intelligence (EQ or EI)
+					發展情商或情商
+
+						Four Components of Emotional Intelligence
+						情商四個組成部分
+
+							Self awareness	
+							自我意識
+					
+								Ability to understand your emotions and how they affect your life. This includes having realistic self- confidence: understanding your strengths and limitations, operating with competence, and knowing when to rely on teammates. It also includes managing your feelings: understanding what triggers them and how you can control them
+								能夠理解你的情緒以及它們如何影響你的生活 這包括擁有現實的自信：瞭解自己的優勢和局限性，有能力地運作，並知道何時依賴隊友 它還包括管理你的感受：了解是什麼觸發了它們以及如何控制它們 
+
+							Self management	
+							自我管理
+
+								Ability to control disruptive emotions, including negative ones—f or example, anger, anxiety, worry. This involves staying calm under pressure and developing resilience, that is, recovering quickly from adversity. It also includes showing emotional balance: instead of blowing up at people, being able to let them know what is wrong and what the solution is
+								能夠控制破壞性情緒，包括消極情緒——例如憤怒、焦慮、擔憂 這包括在壓力下保持冷靜並培養韌性，即從逆境中迅速恢復 它還包括表現出情緒平衡：與其對人們大發雷霆，不如讓他們知道哪裡出了問題，解決方案是什麼 
+
+							Social awareness	
+							社會意識
+
+								Ability to understand others. This includes showing empathy and listening well: paying full attention to the speaker, understanding what she or he is saying without taking over. It also includes putting things in a way that others can understand, accurately reading others’ feelings, and welcoming questions
+								理解他人的能力 這包括表現出同理心和善於傾聽：全神貫注地關注說話者，理解她或他在說什麼而不接管 它還包括以他人可以理解的方式表達事物，準確閱讀他人的感受以及歡迎提問 
+
+							Relationship management
+							關係管理	
+
+								Ability to work well with others. This includes communicating compellingly: putting your arguments in persuasive ways so as to clarify expectations and motivate people. It also includes creating an environment where people feel relaxed working with you
+								能夠與他人良好合作 這包括令人信服的溝通：以有說服力的方式提出你的論點，以澄清期望並激勵人們 它還包括創造一個讓人們感到輕鬆的環境，與你一起工作 
+
+					Use structured interviews to select team members
+					使用結構化面試來選擇團隊成員
+					
+						Basing all content on a job analysis
+						分析工作所有內容
+
+						Standardizing all questions (asking the same questions in the same order to the various candidates)
+						標準化所有問題（以相同的順序向不同的候選人提出相同的問題）
+
+						Limiting prompting, follow-up, and elaboration on questions
+						限制問題的提示、跟進和闡述
+
+						Asking the candidate to relate actual work experiences to prompted situations ( Behavioral interview)
+						請候選人將實際工作經驗與提示情境連結（行為面試）
+
+						Asking the candidate for a course of action in a hypothetical scenario (Situational interview)
+						詢問候選人在假設場景中的行動方案（情境面試）
+
+					Agree on Expectations
+					達成一致期望
+
+						Periodically reviewed expectations (when reaching a milestone)
+						定期審查的期望備忘錄 (當達到一個里程碑)
+
+						Ensure appropriate deployment of efforts and resources
+						確保適當部署工作和資源
+						
+						Ensure clear roles and responsibilities
+						確保角色和職責明確
+
+						Evaluating team members performance 
+						評估團隊成員的績效
+
+						Set challenging yet attainable goals
+						設定具有挑戰性但可實現的目標
+
+							“We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but be-cause they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.”
+							 “我們選擇去月球 我們選擇在這十年裡登上月球並做其他事情，不是因為它們很容易，而是因為它們很難，因為這個目標將有助於組織和衡量我們最好的精力和技能，因為這個挑戰是我們願意接受的，我們不願意推遲的， 一個我們打算贏的，其他的也一樣 
+
+						Demonstrate and demand a can-do attitude
+						展現並要求積極進取的態度
+
+						Expect people to help others be successful
+						期望人們幫助他人取得成功
+
+						Motivate your people to seek help
+						激勵您的員工尋求幫助
+
+						Develop and communicate your high expectations
+						制定並傳達您的高期望
+
+							 The Pygmalion effect— the fact that your expectation of an employee’s performance can become self fulfilling
+							 皮格馬利翁效應——你對員工績效的期望可以自我實現
+
+						Ensure that errors have a low cost
+						確保錯誤成本較低
+
+							Create an environment of safe to make mistakes and report 
+							創造一個安全環境，讓人們可以犯錯誤並報告
+						
+						Promote speaking up
+						提倡暢所欲言
+							
+							Encourage the value of speaking up, creating psychological safety through recognizing their own fallibilities, and emphasizing teamwork through minimizing the concerns about power and status differences
+							鼓勵直言不諱，讓人們通過認識錯誤來創造心理安全感，並減少對權力和地位差異的擔憂
+					
+					Adapt leadership style to the situation
+					根據情況調整領導風格
+
+						Goleman’s Six Leadership Styles 
+						戈爾曼的六種領導風格
+											
+							Authoritative
+							權威性
+
+								Leader’s modusoperandi - Mobilizes people toward a vision
+								領導作風 - 動員人們 朝著一個願景
+
+								The style in a phrase - Come with me		
+								風格短語 - 跟我來
+
+								Underlying emotional intelligence competencies - Self- confidence,empathy, change catalyst
+								基礎情緒智商 - 自信、同理心、變革催化劑
+					
+								When the style works best - When changes require a new vision, or when a clear direction is needed
+								當風格效果最好時 - 當變革需要新的願景，或需要明確的方向時
+
+							Affiliative
+							隸屬關係
+
+								Leader’s modusoperandi - Creates harmony and builds emotional bonds
+								領導作風 - 創造和諧並建立情感鏈結
+
+								The style in a phrase - People come first
+								風格短語 -  以人為本
+
+								Underlying emotional intelligence competencies - Empathy, building relationships, communication
+								基礎情緒智商 - 同理心、建立關係、溝通
+
+								When the style works best - To heal rifts in a team or to motivate people during stressful circumstances
+								當風格效果最好時 - 彌合團隊中的裂痕或在有壓力的情況下激勵人們
+
+							Democratic
+							民主
+
+								Leader’s modusoperandi - Forges consensus through participation
+								領導作風 - 透過參與凝聚共識
+
+								The style in a phrase - What do you think?
+								風格短語 - 你覺得怎麼樣？
+
+								Underlying emotional intelligence competencies - Collaboration, team leadership, communication
+								基礎情緒智商 - 協作、團隊領導、溝通
+
+								When the style works best - To build buy-in or consensus, or to get input from valuable employees
+								當風格效果最好時 - 建立認同或共識，或從有價值的員工那裡獲取意見
+
+							Coaching
+							輔導
+
+								Leader’s modusoperandi - Develops people for the future
+								領導作風 - 為未來培養人才
+
+								The style in a phrase - Try this
+								風格短語 - 試試這個
+
+								Underlying emotional intelligence competencies - Developing others, empathy, self- awareness
+								基礎情緒智商 - 發展他人、同理心、自我意識
+
+								When the style works best - To help an employee improve performance or develop long-term strengths
+								當風格效果最好時 - 幫助員工提高績效或發展長期優勢
+
+							Coercive
+							強制
+
+								Leader’s modusoperandi - Demands immediate compliance
+								領導作風 - 要求立即遵守
+
+								The style in a phrase - Do what I tell you
+								風格短語 - 按照我告訴你的去做 
+
+								Underlying emotional intelligence competencies - Drive to achieve, initiative, self- control
+								基礎情緒智商 - 追求成就的動力、主動性、自我控制
+
+								When the style works best - In a crisis, to kick start a turnaround, or with problem employees
+								當風格效果最好時 - 在危機中、開始扭轉局面或與有問題的員工合作
+
+							Pacesetting
+							標竿
+
+								Leader’s modusoperandi - Sets high standards for performance
+								領導作風 - 設定高績效標準
+
+								The style in a phrase - Do as I do, now
+								風格短語 -  現在就照我做的做
+
+								Underlying emotional intelligence competencies - Conscientiousness, drive to achieve, initiative
+								基礎情緒智商 - 責任感、追求成就的動力、主動性
+
+								When the style works best - To get quick results from a highly motivated and competent team
+								當風格效果最好時 - 從一個積極主動且有能力的團隊中快速獲得結果
+
+						Stablish competence as the captain
+						確立自己作為領導的能力
+
+						Acknowledge their own imperfection
+						承認自己的不完美
+
+						Engage to modifying the meeting to incorporate more elements
+						透過修改會議以納入更多要素
+
+					Delegate
+					委派
+					
+						Improve team performance and employee happiness
+						提升團隊績效與員工幸福感
+
+						Clarify expectations from team members
+						明確團隊成員的期望
+
+						Not make decisions if not competent and rely on qualified people
+						如果沒有能力就不會做出決定並依賴有資格的人
+
+					Use the right people in the right places
+					在正確的地方使用正確的人
+
+						Use the Pareto principle to decide how to deploy your resources
+						使用帕累托原則來決定如何部署資源
+
+					Coach effectively
+					有效輔導
+
+						Providing motivational feedback to improve performance
+						提供激勵回饋以提高績效
+
+						Creating an unthreatening environment; eliciting thoughts and feelings before giving feedback; being nonjudgmental; focusing on behaviors; basing feedback on observed and specific facts; and proposing ideas for improvement
+						創造一個沒有威脅的環境;在提供反饋之前引出想法和感受;不評判;專注於行為;根據觀察到的和具體的事實進行反饋;並提出改進的想法
+
+						"We do not expect you to know everything, but we expect you to ask if you do not know"
+						“我們不期望你知道一切，但我們希望你知道時問”
+						
+						
+					Run successful meetings
+					召開成功的會議
+
+						Before meeting
+						會議前
+
+							Define and communicate the objective
+							明確定義目標
+
+								To provide information, without any action, decision, or conclusion
+								提供資訊，但沒有任何行動
+
+								To decide what to do next
+								決定下一步做什麼
+
+								To decide how to do the next actions
+								決定或結論決定如何採取下一步行動
+								
+								To change the organization’s framework
+								決定或改變組織的框架
+
+							Use different way to achieve objectives 
+							通過不同的方式實現
+
+						During meeting
+						會議期間
+
+							limit chair contribution, serving more as a facilitator than an actor
+							限制主席的貢獻，更多地充當促進者而不是參與者
+							
+							Facilitator should remain impartial
+							協調人必須保持公正
+
+							Facilitator introduce the issue (Agenda, Background Information)
+							主持人介紹議題（議程、背景資訊）
+
+							Each memeber present a position (Objective and Follow up Action)
+							每個成員提出一個立場（目標和後續行動）
+
+							Closing discussion before reaching a decision
+							在做出決定之前結束討論		
+
+								if more facts are required
+								如果需要更多事實
+
+								if the meeting needs the viewpoints of people not present
+								如果會議需要不在場人員的觀點
+
+								if participants need more time to think about the subject
+								如果參與者需要更多時間思考這個主題
+
+								if events are changing
+								如果事件發生變化
+
+								if there is insufficient time to cover the subject properly
+								如果沒有足夠的時間來正確地討論該主題
+
+								if a subset of the group can settle the matter outside the meeting
+								如果小組的一部分人可以在會議之外解決問題
+
+							Summarize agreements
+							總結協議
+
+							Controlling group dynamic
+							控制團體動態
+
+								limiting overly talkative participants
+								限制過度健談的參與者
+
+								Engaging silent participants
+								吸引沉默的參與者
+
+								Protecting the weak by highlighting their contributions
+								透過強調弱者的貢獻來保護他們
+
+								Encouraging the contention of ideas while discouraging the contention of personalities
+								鼓勵思想之爭，同時阻止個性之爭
+
+								Discouraging the squashing of suggestions
+								阻止壓制建議
+
+								Coming to the most senior members last given
+								來到最後給出的最高級成員
+
+								Establish open communication
+								建立開放的溝通
+
+								Apply de Bono’s Six Thinking Hats technique 
+								應用德波諾的六頂思考帽技術
+
+								Look at one and only one specific at a time
+								一次只查看一個且僅特定的一個
+
+								Let’s spend five minutes to think about how we can make this idea work and then we will spend five minutes reflecting on why it might not work
+								讓我們花五分鐘思考如何讓這個想法發揮作用，然後我們將花五分鐘思考為什麼它可能行不通
+
+								Review commitments
+								審查承諾
+
+								Suggestions for future agenda items 
+								對未來議程項目的建議
+
+								Define next meeting time and place 
+								確定下次會議的時間和地點
+
+							After meeting
+							會議結束后
+
+								Send minutes as soon as possible
+								請儘快發送會議記錄
+
+								Identify major decisions reached and the open issues
+								重於明確確定達成的重大決策和未解決的問題
+
+					Communicate effectively in all media forms
+					以各種媒體形式進行有效溝通	
+
+						Use the active voice, plain English, precise language, correct grammar, spelling, and punctuation
+						使用主動語態、簡單的英語、精確的語言、正確的文法、拼字和標點符號
+
+						Make pyramid apparent in the Table_of contents
+						使金字塔在報表的目錄
+						
+						Answering the reader’s questions, enables the reader to decide quickly whether to read each section
+						回答讀者的問題，使讀者能夠快速決定是否閱讀每個部分
+						
+						One also can make the pyramid apparent in the body of the text by summarizing each section in the margin.
+						人們也可以透過總結每一項內容，使金字塔在文本正文中變得顯而易見頁邊距中的部分。
+						
+						Write effective e-mails
+						寫出有效的 e-mails
+
+							Address the e- mail to those who must act, copy those who must know but not act
+							將電子郵件發送給那些必須採取行動的人，複製那些必須知道但不採取行動的人 
+
+							Include in the subject line a reason why the addressee should read the message
+							在主題行中包括收件者應閱讀郵件的原因 
+
+							Address only one topic per e- mail 
+							每封電子郵件只處理一個主題
+
+							Introduce your topic with a situation, complication, and the key question
+							用一個情況、複雜性和關鍵問題來介紹你的主題
+
+							Keep e-mails concise, ideally no more than three paragraphs
+							保持電子郵件簡明扼要，最好不超過三段
+							
+							Using boldface type for important parts
+							重要部分使用粗體字
+
+							Specify who does what when— that is, the owners, actions, and dates
+							請指定誰在何時執行什麼操作（即擁有者、操作和日期）
+
+						Listen actively
+						積極傾聽
+
+							Active listening includes physically hearing, interpreting, evaluating, responding , body language and facial expressions
+							積極傾聽包括身體聆聽、口譯、評估、回應、肢體語言和面部表情
+
+					Good team communication
+					良好團隊溝通
+
+						Ensure project going
+						確保知道專案的進展情況
+
+						Clear expectations for each team member
+						對每個團隊成員有明確的期望
+
+						Make project an opportunity for your team to grow
+						讓專案成為團隊成長的機會 
+
+						Provide positive and negative feedback quickly
+						快速提供正面和負面反饋 
+
+						Talk with everyone often and on an informal basis
+						經常和非正式地與每個人交談 
+					
+						Coach continuously
+						不斷指導
+
+						Ensure that everyone provides feedback
+						確保每個人都提供反饋 
+				 
+					Manage progress
+					管理進度
+
+						More effective in signaling errors made by superiors
+						更有效地報告上級所犯的錯誤
+
+						Clear the nature of problem
+						明確問題的本質
+
+						Suggest solutions while leaving the final decision to the boss
+						提出解決方案，並將最終決定權留給老闆
+
+					Demonstrate high ethical standards
+					展現高道德標準
+
+					Networking
+					網路
+
+						Conduct ambassadorial activities (such as marketing the project to man-agement, managing its reputation, lobbying for resources, and keeping track of advocates and detractors)
+						開展大使活動（例如向管理層推銷專案、管理其聲譽、遊說資源以及跟蹤擁護者和批評者）
+
+						Scout for information across your organization
+						在整個組織中尋找資訊
+
+						Coordinate tasks with other units
+						與其他單位協調任務
+
+						Take ownership of the relationship by planning the meetings, setting up the agenda, asking questions, listen-ing, completing assignments, and requesting feedback
+						通過計劃會議、設置議程、提出問題、傾聽、完成作業和請求反饋來掌握關係
+						
+					Negotiate
+					談判
+					
+						Creating value, claiming value, and build-ing trust
+						創造價值、主張價值並建立信任
+
+						Distinguish the people from the problem to focus on interests
+						區分人與問題，聚焦利益
+
+							 Emotions and egos can get entangled in the problem, resulting in people taking things personally
+							情緒和自負可能會與問題糾纏在一起，導致人們採取個人的事情
+
+							Discuss perceptions
+							討論看法
+
+							Understand emotions
+							了解情緒
+
+							Communication
+							溝通
+
+						Identify BATNA (best alternative to a negotiated agreement)
+						識別 BTANA(最佳替代方案)
+
+						Create value
+						創造價值
+						
+							Create beneficial alternatives for all parties
+							確定替代解決方案
+						
+						First be nice, then mirror
+						首先是友善，然後是鏡子
+
+						Robert Axelrod prescriptions
+						羅伯特·阿克塞爾羅德策略
+							
+							(1) Do not be envious	
+							(1) 不要嫉妒（如果他們是第一個叛逃的人，他們會比你多一次——接受這一點並繼續前進
+
+							(2) Be nice, that is, do not be the first to defect
+							(2) 友善，即不做第一個叛逃的人
+
+							(3) Reciprocate cooperation and defection
+							(3) 互惠合作、叛逃
+
+							(4) Be clear: communicate unambiguously that you will reciprocate their actions
+							(4) 明確：明確地傳達你會回報他們的行為
+
+				Manage clients
+				管理客戶
+
+					Ineffective stakeholder management is one of the biggest causes of project failure
+					無效的利益相關者管理是項目失敗的最大原因之一
+
+					Underpromise and Overdeliver
+					低估和超額交付
+
+						Establishing and maintaining high credibility
+						建立和保持高可信度
+
+						湯姆·拜爾斯建議
+						Tom Byers rules
+
+							(1) Show up on time
+							(1) 準時出現
+
+							(2) Be nice to people
+							(2) 待人善待人
+
+							(3) Do what you say you will do
+							(3) 說到做到
+
+							(4) Deliver more than you promise
+							(4) 交付超出您承諾
+
+							(5) Work with enthusiasm and passion
+							(5) 充滿熱情和激情地工作
+
+					Be proactive
+					積極主動
+						
+						Come prepared
+						有備而來
+
+						Understand the political landscape
+						瞭解政治格局
+					
+					
+					Avoid scope creep
+					避免範圍蔓延
+
+						Clear project plan
+						制定明確的項目計劃
+						
+					Communicate
+					溝通
+
+				Manage risks	
+				管理風險
+
+					Inappropriate leadership support
+					不適當的領導支援
+
+					Changes in buy-in of stakeholders
+					利益相關者支持的變化
+					
+					Scope creep
+					範圍蔓延
+
+					Risk-adverse	
+					規避風險
+
+						Transfer the risk. Pass on the risk to someone else, for instance
+						轉移風險  將風險轉嫁給他人
+				
+						Control/ mitigate the risk. Continuously re- evaluate the risk, both the likelihood and impact of occurrence, and develop contingency plans;
+						控制/降低風險  不斷重新評估風險，包括發生的可能性和影響，並制定應急計劃
+
+						Avoid the risk. Before a specific risk occurs, elect an alternative that does not include the risk; and
+						規避風險  在特定風險發生之前，選擇不包括風險的替代方案
+
+						Assume the risk. Accept the risk and proceed
+						承擔風險  接受風險並繼續前進
+
+				Closing
+				結論
+
+					Debrief
+					彙報
+					
+						Reinforce importance of self-reflection
+						強調自我反省的重要性
+					
+						Ask open-ended questions
+						提出開放式問題
+					
+						Build an open and safe environment
+						建立開放和安全的環境
+					
+						保密彙報
+						Remain confidential
+
+					Share glory
+					分享榮耀
+						
+						慷慨地將功勞歸於團隊成員
+						Generously attributing credit to team members 
+				
+				Key metrics monitoring
+				關鍵指標監控
+
+				Documentation
+				文件記錄	
+				
+				Knowledge central repository
+				知識中心儲存庫
+	
+	REVIEW: Process Review
+	REVIEW: 流程回顧
+
+		Process Review
+		流程審查
+
+			Perform full analyses to facilitate or to check on personal decisions only once or twice per year. 
+			每年只進行一到兩次全面分析以促進或檢查個人決策 
+
+			Decide to use independent modules based on best judgment applied to specific situation
+			根據具體情況的最佳判斷來決定使用個別框架模組 
+
+			Require budget to conduct the entire analysis
+			需要執行整個分析的預算
+
+			Resist time pressures as additional stress seldom promotes effective problem solving
+			應該抵制時間壓力，因為額外的壓力很少能促進有效的問題解決
+
+			Incorrectly framing or problem diagnosis could lead you to consider inappropriate solutions
+			錯誤地構建或診斷您的問題可能會導致您考慮不適當的解決方案
+
+			Sacrificing the not- critical- but- nice- to- have parts
+			犧牲不重要的流程
+			
+			Under time pressure, refrain from bypassing steps, if possible.
+			在時間壓力下，如果可能的話，不要繞過步驟。
+			
+				[Figure_9.1.png]
+
+			Remove framing step to solving the wrong problem after that will build on a shaky foundation
+			完全刪除框架步驟，有可能解決錯誤的問題，之後將建立在一個搖搖欲墜的基礎上
+
+			Retain framing step by cutting the time to allocate to developing solution map that may not identify the great solutions
+			保留框架步驟並通過減少分配給開發解決方案圖的時間，不會確定完全提供的偉大解決方案
+
+			If no sufficient time to diagnose, encouraged to resort to procedural management
+			沒有足夠時間，鼓勵訴諸程式管理
+			
+			Decision problems the is recursive process in nature as not iterating among steps might be an indication of looking at the problem too superficially
+			決策問題是遞歸，在步驟之間不反覆運算可能表明過於膚淺地看待問題
+
+			Involving stakeholders in the resolution process can promote success
+			讓利益相關者參與解決過程可以促進成功
+
+			Might overwhelmed by an issue map that does not resonate
+			對問題地圖感到不知所措並產生共鳴
+
+		Personnal Review
+		個人審查
+
+			Beware of natural tendencies with a negative impact.: overconfident , confirmation bias , falling prey to satisficing 
+			謹防自然趨勢的負面影響: 過度自信, 產生確認偏見 , 容易滿足
+
+			Enhance designer skills: share key skills,tolerating ambiguity, keeping the big picture in sight
+			提升設計師技能: 分享關鍵, 容忍歧義, 著眼於大局
+
+			Embrace failing, if appropriate.Ensure the cost of failure is manageable.  Making failures low- cost occurrences with a high learning is extremely beneficial. 
+			如果合適，接受失敗  確保故障成本可控, 以低成本嘗試和高學習潛力使失敗是關鍵因素
+
+			Embrace failing, if appropriate. Learning failure: identify errors of commission (doing something that you should not have done) from errors of omission (failing to do something you should have done). 
+			如果合適，接受失敗 學習失敗: 確認不應該做的事情 與沒有做你應該做的事
+
+			Embrace failing, if appropriate. Managers should reward the best mistakes that generated the highest level of learning
+			如果合適，接受失敗 管理者應該獎勵能從錯誤中吸取教訓的最好錯誤
+				
+			Keep a learning mentality. Admit one’s weaknesses and shortcomings
+			保持學習的心態  必須能夠承認自己的弱點和缺點 
+			
+			Keep a soft focus. Avoid too focused on one question
+			保持柔和的焦點  避免過於關注某一個問題
+
+			Trust carefully. Look for patterns of deception patterns and motivation from source. Trust, but verify
+			謹慎信任. 在來源中尋找欺騙模式和動機  信任，但要驗證 
+			
+			Balance humility and decisiveness. 
+			平衡謙遜和果斷
+			
+				Knowing  what you know and knowing what you do not know
+				知道你知道什麼，知道你不知道什麼
+				
+				Keep acting with knowledge while doubting what they know, and to openly acknowledge the imperfections in even their best ideas along the way
+				在懷疑自己所知道的事情的同時繼續以知識行事，並且公開承認即使他們最好的想法在過程中也存在缺陷
+				
+				People with limited knowledge in a specific domain not only reach erroneous conclusions, but their incompetence prevents them from realizing it
+				在特定領域知識有限的人不僅會得出錯誤的結論，而且他們的無能阻止他們意識到這一點 
+			
+			Seek feedback. Reduce overconfidence is to question why we may be particularly confident in an outcome and use of high-quality feedback
+			尋求反饋. 質疑為什麼我們對結果特別有信心 並且使用高質量的反饋
+			
+			Use intuition judiciously. Follow intuition but on over- reliance
+			明智運用直覺 遵循直覺, 謹防過度依賴
+
+			Adopt Evidence- based approach
+			採用循證方法
+			
+			Practice in solving complex problems
+			實踐解決複雜問題
+
+			Develop resilience.Promoting positive emotions (through demonstrating optimism and appreciating and using humor), increasing cognitive flexibility, spirituality, developing strong social supports, and developing an active coping style
+			培養韌性. 促進積極的情緒（通過表現出樂觀、欣賞和使用幽默）、增加認知靈活性、靈性、發展強大的社會支援以及培養積極的應對方式

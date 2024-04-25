@@ -1,0 +1,22 @@
+@startsalt
+{+
+Key Question Build
+Objective:|"Main objectives"
+Unfiltered candidaites for key question:|{Q1
+Q2
+Q3}
+Filter|Reasoning|Filtered candidates question
+Type filter:|""|{Q1
+Q2
+}
+Topic filter:|""|{Q1
+Q2
+}
+Scope filter:|""|{Q1
+Q2
+}
+Pharing filter:|""|{Q1
+Q2
+}
+}
+@endsalt

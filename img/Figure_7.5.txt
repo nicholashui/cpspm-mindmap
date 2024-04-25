@@ -1,0 +1,14 @@
+@startmindmap
++ Aristotelian goodwill persuasion
+++ Appeal to ethos/ethics Audience feels: “it’s credible and worthy”
++++ Emphasizing intelligence
+++++ Emphasizing knowledge
+++++ Emphasizing expertise
++++ Emphasizing character
++++ Emphasizing goodwill
+++++ Audience feels communicator is concerned with them
+++++ Audience feels communicator understands them
+++++ Audience feels communicator has their interests at heart
+++ Appeal to pathos/emotions Audience feels: “it appeals to me”
+++ Appeal to logos/logic Audience feels: “it makes sense”
+@endmindmap

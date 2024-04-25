@@ -1,0 +1,22 @@
+@startmindmap
++ A good introduction
+++ ... has the right elements
++++ Has a good situation (S)
+++++ Has all the necessary information to identify the part of the universe we are interested
+++++ Has only the necessary information
+++++ Has only information that is positive and undisputed/uncontroversial
++++ Has a good complication(C)
+++++ Has a unique problem in that part of the universe (potentially illustrated by one or several of its symptoms/consequences)
++++ Has a good key question (KQ)
+++++ Is of the right type (based on the right root: why or how)
+++++ Is on an appropriate topic
+++++ Has an appropriate scope (neither too broad nor too narrow)
+++++ Has an appropriate phrasing (understandable without anything else)
+++ ... and the elements work well together
++++ The flow complies with the rabbit rule (i.e., nothing new appears in the KQ)
++++ The flow complies with the holding-hands rule (i.e., if something appears in the S or C, it is in the KQ, too)
++++ The flow is understandable by a novice after one read
+++++ No gaps, no overlaps
+++++ Appropriate order
+++++ No jargon
+@endmindmap

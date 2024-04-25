@@ -1,0 +1,6 @@
+@startmindmap
++ Socrates is mortal
+++ Reason
++++ All mem are mortal
++++ Socrate is a man
+@endmindmap

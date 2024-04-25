@@ -1,0 +1,38 @@
+@startsalt
+{+
+**Project Name**:|"Project Name"
+**Specific goals**:|{"1.Why problem occurs?"
+"2.How to resolve the problem?"
+"3.Do: What are the action plans?"}|**Out of scope:**|{"1.Why unrelated problem occurs?"
+"2.How to resolve these unrelated problem?"
+"3.Do: What are these unrelated action plans?"}
+**Decision maker:**|"Key stakeholders"|**Other key stakeholders:**|"Minor stakeholders"
+**Timetable**:{Actions
+1. Frame the problem (define the what)
+2. Diagnose the problem (find the why)
+2.1 Define the diagnostic key quesiton and identify possible causes
+2.2 Collect the diagnostic evidence,analyze, and draw conclusions
+3. Identlify solutions (find the law)
+3.1 Define the solution key question and identify potential solutions
+3.2 Collect evidence, analyze, and decide which solutions(s) to implement
+4. Implment the chosen solution(s)(do)
+}|{Need time
+"1 h"
+"1 h"
+"1 h"
+"1 h"
+"1 h"
+"1 h"
+"1 h"}|{Cumulative Time
+"1 h"
+"2 h"
+"3 h"
+"4 h"
+"5 h"
+"6 h"
+"7 h"}
+**Resources**:{ **Money**: "Spend up to $XXX for the why, $XXX for the how , $XXX for the do"
+**People**:"N people (full time)"}
+**Possible problems**:|"Other problems"|**Mitigation actions**:|"Short item actions"
+}
+@endsalt

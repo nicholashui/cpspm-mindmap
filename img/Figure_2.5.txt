@@ -1,0 +1,19 @@
+@startuml
+start
+:**Frame problem**
+WHAT problem should you should
+WHAT do I want to achieve?;
+:**Diagnose problem**
+WHY are you facing this problem?
+Why do I have this problem?
+Why haven't I achieved my goad yet?
+Who do I want to solve this problem?;
+:**Find potential solutions**
+HOW can you solve it?
+How many different ways can I solve this problem?
+Which one should I choose?;
+:**Implement solutions**
+DO How do I implement the solution 
+and monitor effectiveness?;
+stop
+@enduml

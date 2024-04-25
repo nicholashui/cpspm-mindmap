@@ -1,0 +1,26 @@
+@startmindmap
++ SMART goals
+++ Specifc
+++ Measurable
+++ Achievable
+++ Relevant
+++ Time-based
++ Necessary conditions for action
+++ Ability/can
+++ Willingness/want
++ Effective persuasion
+++ Logic
+++ Emotion
+++ Credibility
++ System saturation
+++ Insufficient supply
+++ Excessive demand
++ PESTLE analysis
+++ Political factors
+++ Economic factors
+++ Sociocultural
+++ factors
+++ Technological factors
+++ Legal factors
+++ Environmental factors
+@endmindmap

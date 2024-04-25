@@ -1,0 +1,9 @@
+@startmindmap
++ Claim
+++ Because:Reason
++++ Because: Supporting Reason
++++ But: Objection
+++ But:Objection
++++ Because: Supporting Reason
++++ However: Rebuttal
+@endmindmap
